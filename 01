@@ -351,11 +351,7 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
 
  
-#EXTINF:-1 tvg-id="RADIO BESAME" tvg-logo="https://www.radio.es/300/besame-fm.png",BESAME
-https://24503.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
- 
-#EXTINF:-1 tvg-id="RPP NOTICIAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
-https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+
 
 
 
@@ -661,11 +657,6 @@ http://pilarika.no-ip.org/Cine/Cine_06/026_-_La_bella_y_la_bestia.mp4
 
 ♥♥♥ RADIOS ♥♥♥
 
-#EXTINF:0,RADIO 1 FELICIDAD
-https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
-#EXTINF:0,RADIO 2 FELICIDAD
-https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
-
 
 #EXTINF:-1 tvg-id="RADIO FELICIDAD 1" tvg-logo="https://i.ytimg.com/vi/4bPIeLBaL3A/sddefault.jpg",Felicidad
 https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
@@ -677,13 +668,62 @@ https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
 #EXTINF:-1 tvg-id="RADIO MELODIA" tvg-logo="https://static-media.streema.com/media/cache/9e/7d/9e7de0cf0d234a846badadafa7bf0bb7.jpg",MELODIA
 https://stream.radiomelodia.com.pe:8000/radio.mp3
 
-
 #EXTINF:-1 tvg-id="RADIO MELODIA" tvg-logo="https://static-media.streema.com/media/cache/9e/7d/9e7de0cf0d234a846badadafa7bf0bb7.jpg",MELODIA
-https://stream.radiomelodia.com.pe:8000/radio.mp3
+https://stream.radiomelodia.com.pe:8010/radio.mp3
  
 #EXTINF:-1 tvg-id="RADIO INOLVIDABLE" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
 https://24443.live.streamtheworld.com/CRP_LI_SC?
+#EXTINF:-1 tvg-id="RADIO INOLVIDABLE 2" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI.mp3
+
  
 #EXTINF:-1 tvg-id="RADIO PIRATA" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/53030.jpg",PIRATA
 https://panel.innovatestream.pe:10995/stream
 
+#EXTINF:-1 tvg-id="RADIO MAGICA 1" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
+https://25003.live.streamtheworld.com/MAG_SC
+#EXTINF:-1 tvg-id="RADIO MAGICA 2" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC.aac
+
+#EXTINF:-1 tvg-id="RADIO BESAME" tvg-logo="https://www.radio.es/300/besame-fm.png",BESAME
+https://24503.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
+ 
+#EXTINF:-1 tvg-id="RPP NOTICIAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+
+#EXTINF:-1 tvg-id="RPP NOTICIAS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
+
+RADIO MANTRA FM
+https://streamlky.alsolnet.com:443/mantrafm
+
+RADIO SALUD 1
+https://sonic.streamingchilenos.com/9820/stream external stream link
+
+RADIO NATURE
+https://stream.zeno.fm/sfpqezsh6f0uv
+
+RADIO ZEN COSTA DEL MAR 
+https://radio4.cdm-radio.com:18004/stream64k-AAC-Zen
+
+RADIO CALM MEDITATION
+https://drive.uber.radio/uber/calmmeditation/icecast.audio
+
+RADIO INTRA NATURE
+http://nap.casthost.net:8793/;
+
+RADIO YOGA
+https://stream.rpr1.de/yogasounds/aac-64
+
+
+
+DRPEREZ ALBELA 1
+https://www.ivoox.com/listen_mn_131882623_1.mp3?pc=125609%2C158787%2C219409%2C231153
+DRPEREZ ALBELA 2
+https://www.ivoox.com/listen_mn_131882623_1.mp3
+
+
+EP192 Mandalas 1  
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/6706cf6c7c61e7969fe0a2b5_6706cf6c7c61e7969fe0a2be.mp3?
+EP193 Mandala 2
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/670fd020995793393a35b68e_670fd020995793393a35b697.mp3?
