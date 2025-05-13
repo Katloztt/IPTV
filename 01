@@ -694,36 +694,39 @@ https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:-1 tvg-id="RPP NOTICIAS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
 
-RADIO MANTRA FM
+#EXTINF:0,RADIO MANTRA FM
 https://streamlky.alsolnet.com:443/mantrafm
 
-RADIO SALUD 1
-https://sonic.streamingchilenos.com/9820/stream external stream link
+#EXTINF:0,RADIO SALUD 1
+https://sonic.streamingchilenos.com/9820/stream
 
-RADIO NATURE
+#EXTINF:0,RADIO NATURE
 https://stream.zeno.fm/sfpqezsh6f0uv
 
-RADIO ZEN COSTA DEL MAR 
+#EXTINF:0,RADIO ZEN COSTA DEL MAR 
 https://radio4.cdm-radio.com:18004/stream64k-AAC-Zen
 
-RADIO CALM MEDITATION
-https://drive.uber.radio/uber/calmmeditation/icecast.audio
+#EXTINF:0,RADIO CALM ZEN
+https://drive.uber.radio/uber/calmzen/icecast.audio
 
-RADIO INTRA NATURE
+#EXTINF:0,RADIO INTRA NATURE
 http://nap.casthost.net:8793/;
 
-RADIO YOGA
+#EXTINF:0,RADIO YOGA
 https://stream.rpr1.de/yogasounds/aac-64
 
 
 
-DRPEREZ ALBELA 1
+#EXTINF:0,DR P ALBELA 1
 https://www.ivoox.com/listen_mn_131882623_1.mp3?pc=125609%2C158787%2C219409%2C231153
-DRPEREZ ALBELA 2
+#EXTINF:0,DR P ALBELA 2
 https://www.ivoox.com/listen_mn_131882623_1.mp3
 
 
-EP192 Mandalas 1  
+#EXTINF:0,EP192 Mandalas 1  
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/6706cf6c7c61e7969fe0a2b5_6706cf6c7c61e7969fe0a2be.mp3?
-EP193 Mandala 2
+#EXTINF:0,EP193 Mandala 2
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/670fd020995793393a35b68e_670fd020995793393a35b697.mp3?
+#EXTINF:0,RADIO CATOLICA
+http://centova12.instainternet.com:8555/;
+
