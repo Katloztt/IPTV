@@ -723,36 +723,61 @@ https://dn720407.ca.archive.org/0/items/dragon-ball-zvideoplaytv/Dragon%20ball%2
 
 ♥♥♥ RADIOS ♥♥♥
 
+#EXTINF:-1 tvg-id="RADIO MARIA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/340/radio-maria-peru.8f9b48de.jpg",RADIO MARIA
+http://dreamsiteradiocp4.com:8020/;
+
+#EXTINF:-1 tvg-id="RADIO NSE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/be/72/6b/be726bbb-f030-9da9-09b8-30c1667dd4a7/8f8a1314-caeb-4ae5-9382-029aa89a8e68.jpg/1200x1200bf-60.jpg",RADIO NSE AQP
+https://servidor18.brlogic.com:7440/live
+
+#EXTINF:-1 tvg-id="RADIO NSE 2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/be/72/6b/be726bbb-f030-9da9-09b8-30c1667dd4a7/8f8a1314-caeb-4ae5-9382-029aa89a8e68.jpg/1200x1200bf-60.jpg",RADIO NSE
+https://servidor18-2.brlogic.com:7440/live
+
+#EXTINF:-1 tvg-id="RADIO SANTA ROSA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgj7-fj6lBlGs4jqvmyjMr7UnAbQVzVu_ZFffsrVzTgey2DBPjFHp3DERFho_YozrBbLMnglJlIjQFV6-vTmUCqxSh2TGyEXNFwv-q3qypz4bEPMFRaxign9biAZPjaVfgSyvUWbwgcI1C/s1600/Radio-santa-rosa.jpg",RADIO SANTA ROSA
+http://conectperu.com/8256/stream
+
+#EXTINF:-1 tvg-id="RADIO MARIA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/340/radio-maria-peru.8f9b48de.jpg",RADIO MARIA 2
+https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream
+
+#EXTINF:-1 tvg-id="RADIO EMANUEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TmO666kObcZJ_3_BU_CTPN_LnPK5Wwn0BzfzFEJQz8lI-HhSkh_mpFTZNHaAjYEridYoTQ02d6af0iWWuT0Lx2aiPjtTJbxjJa3YbAsgesCIIVPGry3oIzQKn4AGECdsKs3Dju_Opt8/s200/emanuel.jpg",RADIO EMANUEL
+https://conectperu.com/8216/stream
+#EXTINF:-1 tvg-id="RADIO CATOLICA" tvg-logo="https://i.pinimg.com/736x/41/37/5a/41375a2cb87059a0add701198abad8fe.jpg",CATOLICA
+http://centova12.instainternet.com:8555/;
 
 #EXTINF:-1 tvg-id="RADIO FELICIDAD 1" tvg-logo="https://i.ytimg.com/vi/4bPIeLBaL3A/sddefault.jpg",Felicidad
 https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
 
 #EXTINF:-1 tvg-id="RADIO FELICIDAD 2" tvg-logo="https://i.ytimg.com/vi/4bPIeLBaL3A/sddefault.jpg",Felicidad
 https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
-
+#EXTINF:-1 tvg-id="RADIO INOLVIDABLE" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
+https://24443.live.streamtheworld.com/CRP_LI_SC?
+#EXTINF:-1 tvg-id="RADIO INOLVIDABLE 2" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI.mp3
 
 #EXTINF:-1 tvg-id="RADIO MELODIA" tvg-logo="https://static-media.streema.com/media/cache/9e/7d/9e7de0cf0d234a846badadafa7bf0bb7.jpg",MELODIA
 https://stream.radiomelodia.com.pe:8000/radio.mp3
 
 #EXTINF:-1 tvg-id="RADIO MELODIA" tvg-logo="https://static-media.streema.com/media/cache/9e/7d/9e7de0cf0d234a846badadafa7bf0bb7.jpg",MELODIA
 https://stream.radiomelodia.com.pe:8010/radio.mp3
- 
-#EXTINF:-1 tvg-id="RADIO INOLVIDABLE" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
-https://24443.live.streamtheworld.com/CRP_LI_SC?
-#EXTINF:-1 tvg-id="RADIO INOLVIDABLE 2" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI.mp3
-
- 
-#EXTINF:-1 tvg-id="RADIO PIRATA" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/53030.jpg",PIRATA
-https://panel.innovatestream.pe:10995/stream
-
-#EXTINF:-1 tvg-id="RADIO MAGICA 1" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
+ #EXTINF:-1 tvg-id="RADIO MAGICA 1" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
 https://25003.live.streamtheworld.com/MAG_SC
 #EXTINF:-1 tvg-id="RADIO MAGICA 2" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
 https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC.aac
 
+#EXTINF:-1 tvg-id="RADIO PIRATA" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/53030.jpg",PIRATA
+https://panel.innovatestream.pe:10995/stream
+
+
+
 #EXTINF:-1 tvg-id="RADIO BESAME" tvg-logo="https://www.radio.es/300/besame-fm.png",BESAME
 https://24503.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
+#EXTINF:-1 tvg-id="RADIO RITMO R" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/romantica.png",RITMO ROMANTICA
+https://19273.live.streamtheworld.com/CRP_RIT_SC?
+
+#EXTINF:-1 tvg-id="RADIO C" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/corazon-san-isidro.png",RADIO CORAZON
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/latidos.png",RADIO LATIDOS
+https://radio.pjcks.com/7230/stream/1/
  
 #EXTINF:-1 tvg-id="RPP NOTICIAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
@@ -763,17 +788,17 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed
 #EXTINF:-1 tvg-id="RADIO MANTRA FM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/25/40/04/25400455-0b18-e471-d6b4-6c1e9320d450/mza_15827487239325113622.jpg/1200x1200bf-60.jpg",MANTRA
 https://streamlky.alsolnet.com:443/mantrafm
 
-#EXTINF:-1 tvg-id="RADIO SALUD" tvg-logo="https://img.radios.com.br/radio/lg/radio261163_1741795581.jpg",SALUD
+#EXTINF:-1 tvg-id="RADIO SALUD" tvg-logo="https://img.radios.com.br/radio/lg/radio261163_1741795581.jpg", RADIO SALUD
 https://sonic.streamingchilenos.com/9820/stream
 
-#EXTINF:-1 tvg-id="RADIO NATURE" tvg-logo="https://img.radios.com.br/radio/lg/radio261163_1741795581.jpg",NATURE
+#EXTINF:-1 tvg-id="RADIO NATURE" tvg-logo="https://img.radios.com.br/radio/lg/radio261163_1741795581.jpg",NATURE 1
 https://stream.zeno.fm/sfpqezsh6f0uv
 
 #EXTINF:-1 tvg-id="RADIO ZEN COSTA DEL MAR" tvg-logo="https://cdn-profiles.tunein.com/s282997/images/logog.jpg",ZEN
 https://radio4.cdm-radio.com:18004/stream64k-AAC-Zen
 
-#EXTINF:-1 tvg-id="RADIO CALM ZEN" tvg-logo="https://theproadmin.online/radio5/world/images/unitedarabemirates/64319_radio.png",CALM
-https://drive.uber.radio/uber/calmzen/icecast.audio
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/122/nature-radio-sleep.ecb71f09.jpg",RADIO NATURE
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
 
 
 #EXTINF:-1 tvg-id="RADIO INTRA NATURE" tvg-logo="https://forwardmystream.com/stations/300/intranature-9024.png",NATURE
@@ -796,9 +821,8 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/
 #EXTINF:0,EP193 Mandala 2
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/670fd020995793393a35b68e_670fd020995793393a35b697.mp3?
 
-#EXTINF:-1 tvg-id="RADIO CATOLICA" tvg-logo="https://i.pinimg.com/736x/41/37/5a/41375a2cb87059a0add701198abad8fe.jpg",CATOLICA
-http://centova12.instainternet.com:8555/;
 
-#EXTINF:-1 tvg-id="RADIO CATOLICA" tvg-logo="https://www.kidspublicradio.org/wp-content/uploads/2015/03/cosquillas_featured-300x292.png",COSQUILLAS
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://www.kidspublicradio.org/wp-content/uploads/2015/03/cosquillas_featured-300x292.png",COSQUILLAS
 http://kidspublicradio.got.net:8000/cosquillas
 
