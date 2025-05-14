@@ -799,3 +799,6 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/
 #EXTINF:-1 tvg-id="RADIO CATOLICA" tvg-logo="https://i.pinimg.com/736x/41/37/5a/41375a2cb87059a0add701198abad8fe.jpg",CATOLICA
 http://centova12.instainternet.com:8555/;
 
+#EXTINF:-1 tvg-id="RADIO CATOLICA" tvg-logo="https://www.kidspublicradio.org/wp-content/uploads/2015/03/cosquillas_featured-300x292.png",COSQUILLAS
+http://kidspublicradio.got.net:8000/cosquillas
+
