@@ -785,6 +785,12 @@ https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:-1 tvg-id="RPP NOTICIAS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg",RPP
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
 
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/victoria-arequipa.png",RADIO VICTORIA AQP
+https://radio.sistemasandinos.org/7238/stream/1/
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/yaravi-arequipa.png",RADIO YARAVI
+https://tupanel.info/stream/radioyaravi/stream/1/
+
 #EXTINF:-1 tvg-id="RADIO MANTRA FM" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/25/40/04/25400455-0b18-e471-d6b4-6c1e9320d450/mza_15827487239325113622.jpg/1200x1200bf-60.jpg",MANTRA
 https://streamlky.alsolnet.com:443/mantrafm
 
@@ -804,9 +810,9 @@ https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
 #EXTINF:-1 tvg-id="RADIO INTRA NATURE" tvg-logo="https://forwardmystream.com/stations/300/intranature-9024.png",NATURE
 http://nap.casthost.net:8793/;
 
-#EXTINF:-1 tvg-id="RADIO YOGA" tvg-logo="https://www.radio.es/300/vipyoga.png",RADIO
+#EXTINF:-1 tvg-id="RADIO YOGA" tvg-logo="https://www.radio.es/300/vipyoga.png",RADIO YOGA
 https://stream.rpr1.de/yogasounds/aac-64
-#EXTINF:-1 tvg-id="RADIO SOUNDS" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/sj954qlrc8dp.jpg",RADIO
+#EXTINF:-1 tvg-id="RADIO SOUNDS" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/sj954qlrc8dp.jpg",RADIO SOUNDS
 https://stream.rpr1.de/yogasounds/mp3-128/mytuner
 
 
