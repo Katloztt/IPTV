@@ -831,4 +831,6 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://www.kidspublicradio.org/wp-content/uploads/2015/03/cosquillas_featured-300x292.png",COSQUILLAS
 http://kidspublicradio.got.net:8000/cosquillas
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",RADIO FULL TECHNO
+https://servistream.info:8320/;
 
