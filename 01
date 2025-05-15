@@ -833,4 +833,8 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/
 http://kidspublicradio.got.net:8000/cosquillas
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",RADIO FULL TECHNO
 https://servistream.info:8320/;
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/7e/70/es2-g-104-poacutester-la-bandera-espantildeola-poacutester-din-a4_ver_1.jpg",BANDERA 01
+https://www.ivoox.com/listen_mn_135728112_1.mp3
 
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/7e/70/es2-g-104-poacutester-la-bandera-espantildeola-poacutester-din-a4_ver_1.jpg",BANDERA 02
+https://www.ivoox.com/listen_mn_111637830_1.mp3
