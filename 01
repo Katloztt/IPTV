@@ -255,12 +255,31 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w730441855_b142
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:0,RETRO MUSIC
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w730441855_b1428000.m3u8
-#EXTINF:0,ROCK ALT
+#EXTINF:0,WOW ROCKTV
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,ROCK
+#EXTINF:0,ROCK RADIO FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
 #EXTINF:0,I HEART RADIO ALT
 https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://new.plusx.tv/logo/MTV%20Live%20HD.png" timeshift="10" catchup="fs" group-title="Muzyka" ,MTV Live HD
+http://live7.itvn.io:4000/229/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:0 tvg-id="MTV 00S" tvg-name="MTV 00S" tvg-logo="http://epg.ovh/logo/MTV+00S.png" timeshift="10" catchup="fs" group-title="Muzyka" ,MTV 00s
+http://live7.itvn.io:4000/228/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:0 tvg-id="MTV 90S" tvg-name="MTV 90s" tvg-logo="http://epg.ovh/logo/MTV+Rocks.png" timeshift="10" catchup="fs" group-title="Muzyka" ,MTV 90s
+http://live7.itvn.io:4000/325mtv/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:0 tvg-id="MTV 80S" tvg-name="MTV 80S" tvg-logo="http://epg.ovh/logo/MTV+80S.png" timeshift="10" catchup="fs" group-title="Muzyka" ,MTV 80s
+http://live7.itvn.io:4000/123/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:0 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://epg.ovh/logo/MTV+Hits.png" timeshift="10" catchup="fs" group-title="Muzyka" ,MTV Hits
+http://live7.itvn.io:4000/mtvhits/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:0 tvg-id="4ever music HD" tvg-name="4ever music HD" tvg-logo="http://epg.ovh/logo/4ever+music+HD.png" timeshift="10" catchup="fs" group-title="Muzyka" ,4ever music
+http://live7.itvn.io:4000/126/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
+#EXTINF:-1 tvg-chno=550 tvg-id="now-70s" tvg-name="NOW 70s" group-title="muzyka",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="NOW 80s" group-title="muzyka",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=552 tvg-id="now-rock" tvg-name="NOW Rock" group-title="muzyka",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+
 
 
 ♥♥♥ DEPORTES ♥♥♥
@@ -773,7 +792,7 @@ https://24503.live.streamtheworld.com/BESAME_MEDELLINAAC_SC
 #EXTINF:-1 tvg-id="RADIO RITMO R" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/romantica.png",RITMO ROMANTICA
 https://19273.live.streamtheworld.com/CRP_RIT_SC?
 
-#EXTINF:-1 tvg-id="RADIO C" tvg-logo="https://i.gifer.com/origin/a9/a992af80bb62b9752456125523f2151c_w200.gif",RADIO CORAZON
+#EXTINF:-1 tvg-id="RADIO C" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/corazon-san-isidro.png",RADIO CORAZON
 https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/latidos.png",RADIO LATIDOS
