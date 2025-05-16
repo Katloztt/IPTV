@@ -273,8 +273,7 @@ http://live7.itvn.io:4000/123/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b022
 http://live7.itvn.io:4000/mtvhits/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
 #EXTINF:0 tvg-id="4ever music HD" tvg-name="4ever music HD" tvg-logo="http://epg.ovh/logo/4ever+music+HD.png" timeshift="10" catchup="fs" group-title="Muzyka" ,4ever music
 http://live7.itvn.io:4000/126/mono.m3u8?token=7aa8d76c95ad7627b08d032f509595b02222
-#EXTINF:-1 tvg-chno=550 tvg-id="now-70s" tvg-name="NOW 70s" group-title="muzyka",NOW 70s
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="NOW 80s" group-title="muzyka",NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=552 tvg-id="now-rock" tvg-name="NOW Rock" group-title="muzyka",NOW Rock
@@ -285,34 +284,14 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:0,rock tv
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0,Rockola Television
-https://dr2t9f8nivbc6.cloudfront.net/hls/L37R4GI/m.m3u8
-#EXTINF:0,karaoke tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
-#EXTINF:0,pulse rock
-https://www.pulserocktv.com/Videos/teaserpulse2022.mp4
-#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 2K (Australia)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 70s (Australia)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+
 #EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 80s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png",VEVO 90 00
 https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
 #EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 90s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Country (Australia)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="France 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png",Vevo Hip-Hop & R&B
-https://jmp2.uk/sam-FRBC2100002JA.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/WFQ0NCF/vevohprb.png",VEVO HP RB
-https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
-#EXTINF:-1 group-title="France 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png",Vevo Pop
-https://jmp2.uk/sam-FRBC2100001YY.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png",VEVO POP
-https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
-#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Pop (Australia)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+
 #EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Retro Rock (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
