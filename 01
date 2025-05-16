@@ -279,7 +279,42 @@ https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=552 tvg-id="now-rock" tvg-name="NOW Rock" group-title="muzyka",NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-
+#EXTINF:0,now rock 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0,music top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:0,rock tv
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:0,Rockola Television
+https://dr2t9f8nivbc6.cloudfront.net/hls/L37R4GI/m.m3u8
+#EXTINF:0,karaoke tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+#EXTINF:0,pulse rock
+https://www.pulserocktv.com/Videos/teaserpulse2022.mp4
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 70s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 80s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png",VEVO 90 00
+https://d2q982f39qtdzh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-np9jnkbfjxrog/Vevo90and2000_FR.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo 90s (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Country (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="France 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png",Vevo Hip-Hop & R&B
+https://jmp2.uk/sam-FRBC2100002JA.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/WFQ0NCF/vevohprb.png",VEVO HP RB
+https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8
+#EXTINF:-1 group-title="France 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png",Vevo Pop
+https://jmp2.uk/sam-FRBC2100001YY.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png",VEVO POP
+https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Pop (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Retro Rock (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 
 ♥♥♥ DEPORTES ♥♥♥
@@ -739,6 +774,28 @@ https://dn720407.ca.archive.org/0/items/dragon-ball-zvideoplaytv/Dragon%20ball%2
 https://dn720407.ca.archive.org/0/items/dragon-ball-zvideoplaytv/Dragon%20ball%20Z%20118-140/%5B123%5D%20La%20t%C3%A9cnica%20especial%20de%20Goku.%20-%20Dragon%20Ball%20Sullca.mp4
 #EXTINF:0,DBZ CAP 24
 https://dn720407.ca.archive.org/0/items/dragon-ball-zvideoplaytv/Dragon%20ball%20Z%20118-140/%5B124%5D%20Superar%C3%A9%20a%20Goku.%20-%20Dragon%20Ball%20Sullca.mp4
+
+REVISAR Y PROBAR ESTOS CANALES Y LUEGO ACOMODAR
+#EXTINF:0,canal del otoño
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+#EXTINF:0,CANAL LA ISLA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:0,SoniCentric En Vivo
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+#EXTINF:0,CANAL LLUVIA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+#EXTINF:0,VERANO CANAL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
+#EXTINF:0,COMIDAS MX
+https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/playlist.m3u8
+#EXTINF:0,NEGOCIOS TV
+https://negociostv-negociostv-samsunges.amagi.tv/playlist.m3u8
+#EXTINF:0,TV3 CAT 
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:0,Pitufo TV
+https://stream.ads.ottera.tv/cl/250516d0jdnd0podh616n7q7dg/1280x720_3071200_0_f.m3u8?i=475_4211
+#EXTINF:0,Pitufo TV2
+https://stream.ads.ottera.tv/cl/250516d0jdnd0podh616n7q7dg/1280x720_3071200_0_f.m3u8
 
 ♥♥♥ RADIOS ♥♥♥
 
