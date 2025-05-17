@@ -295,6 +295,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/
 #EXTINF:-1 group-title="AUSTURALIA_NZELAND",Vevo Retro Rock (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
+#EXTINF:0,ska rock
+https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
+#EXTINF:0,POP World TV 
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:0,iHeartRadio 90s
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+
 
 ♥♥♥ DEPORTES ♥♥♥
 #EXTINF:-1 group-title="France" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100",Journal du Golf TV [1080p-dailymotion.com]
@@ -895,3 +902,7 @@ https://www.ivoox.com/listen_mn_135728112_1.mp3
 https://www.ivoox.com/listen_mn_111637830_1.mp3
 #EXTINF:0,BOMBEROS
 https://ia800300.us.archive.org/14/items/sin-tn%20t%C3%ADddtulo.mp4
+#EXTINF:0,Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:0,NATURE TIME
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
