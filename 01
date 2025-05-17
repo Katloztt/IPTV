@@ -1036,6 +1036,7 @@ https://pull-flv-l11-va01.tiktokcdn.com/stage/stream-2999573172360314921_sd.flv?
 #EXTINF:0,TIKTOK 3
 https://pull-flv-l11-va01.tiktokcdn.com/stage/stream-2999573172360314921_ld.flv?_session_id=131-202505171054273C4B59F138BD46992B4F.1747450467241&_webnoredir=1&expire=1748660067&sign=e5b0a6ceeacc17810187a5b599bc0ae4&abr_pts=101023
 
-
-
-
+#EXTINF:0,AMERICA TV POR 1 DIA
+https://live2.sdfgnksbounce.com:9091/5_/index.m3u8?token=0179656f7ddf864361ea18d2ad2fc424c39ed0aa-bb45ffc8bef394845c2c9a08309b0ca3-1747543724-1747525724&amp;remote=213.173.36.175
+ #EXTINF:0,AMERICA BITEL POR1 DIA
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
