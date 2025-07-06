@@ -954,8 +954,6 @@ https://25003.live.streamtheworld.com/MAG_SC
 #EXTINF:-1 tvg-id="RADIO MAGICA 2" tvg-logo="https://images.radiosonline.app/144/gM2SFsZvYx.png",Magica
 https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC.aac
 
-#EXTINF:-1 tvg-id="RADIO PIRATA" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/53030.jpg",PIRATA
-https://panel.innovatestream.pe:10995/stream
 
 
 
@@ -1063,6 +1061,9 @@ https://liveaudio.lamusica.com/LA_KXOL_icy?
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://f.rpp-noticias.io/cutter/2022/11/28/1669651193.png",LA MEGA MIX
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
 
+#EXTINF:-1 tvg-id="RADIO PIRATA" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/53030.jpg",PIRATA
+https://panel.innovatestream.pe:10995/stream
+
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE
 https://conectperu.com:7082/ 
@@ -1089,6 +1090,27 @@ https://stream.zeno.fm/bg1x7btnekeuv
 
 #EXTINF:0,181 .FM
 https://listen.181fm.com/181-salsa_128k.mp3?
+
+
+#EXTINF:0,NIÑO AZUL
+https://host.gometri.com/proxy/ninoazul/stream
+
+
+#EXTINF:0,RADIO MILLENIUM
+https://host.gometri.com/proxy/radiomillennium/stream
+
+#EXTINF:0,NOVENTERA
+https://host.gometri.com/proxy/lanoventera/stream
+#EXTINF:0,noventera
+https://streaming.gometri.com/stream/8043/stream
+
+
+#EXTINF:0,RADIO ESFERA DA LA HORA
+https://mediastreamm.com/8058/stream
+
+#EXTINF:0,cosmos huacho
+https://radiohd.streaminghd.co:7796/live
+
 #EXTINF:0,El Profe
 https://ia903206.us.archive.org/25/items/cantinflas-el-profe-1971/Cantinflas%20El%20profe%20%281971%29.mp4
 #EXTINF:0,Su Excelencia 
@@ -1097,3 +1119,4 @@ https://dn720301.ca.archive.org/0/items/su-excelencia/Su%20Excelencia.mp4
 https://ia801805.us.archive.org/7/items/6714898188902/6714898188902.mp4
 #EXTINF:0,EL NIÑO QUE DOMO EL VIENTO
 https://ia601302.us.archive.org/1/items/el-nino-que-domo-el-viento-hd-ok.-ru/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20El%20ni%C3%B1o%20que%20domo%20el%20viento%20%28HD%29%20-%20OK.RU.mp4
+
