@@ -1356,5 +1356,8 @@ https://stream.laut.fm/jvmlaestacion
 #EXTINF:0,RADIO ANDROMEDA
 https://c11.radioboss.fm:18071/stream
 
-
+#EXTINF:0,RADIO LUZ TARMA
+https://radio.publikarte.com.pe/listen/radioluz/stream
+#EXTINF:0,RADIO ESCALA DE ORO
+https://stream.zeno.fm/1872fq9bytzuv
 
