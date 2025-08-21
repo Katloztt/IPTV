@@ -1328,11 +1328,10 @@ https://ia601603.us.archive.org/2/items/mis-ninios-2025_202508/mis%20ninios%2020
 #EXTINF:0,VISION SUR TV 
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:0,Aerosmith 1
-Aerosmith.Lick.And.A.Promise.1080p.BluRay.DTS.FLAC.x264.HDCLUB-SbR.mkv
+http://92.247.236.71:9800/Music%20Video/Aerosmith-Rock%20for%20the%20Rising%20Sun%202011%201080p/Aerosmith.Lick.And.A.Promise.1080p.BluRay.DTS.FLAC.x264.HDCLUB-SbR.mkv
 #EXTINF:0,Aerosmith 2
-Aerosmith.One.Way.Street.1080p.BluRay.DTS.FLAC.x264.HDCLUB-SbR.mkv
-#EXTINF:0,Aerosmith 3
-Aerosmith.Rock.for.the.Rising.Sun.2011.1080p.BluRay.DTS.FLAC.x264.HDCLUB-SbR.mkv
+http://92.247.236.71:9800/Music%20Video/Aerosmith-Rock%20for%20the%20Rising%20Sun%202011%201080p/Aerosmith.Rock.for.the.Rising.Sun.2011.1080p.BluRay.DTS.FLAC.x264.HDCLUB-SbR.mkv
+
 #EXTINF:0, RADIO FELIZ 01
 https://s8.voscast.com:7991/stream
 #EXTINF:0,RINCON CHIVO
@@ -1361,3 +1360,7 @@ https://radio.publikarte.com.pe/listen/radioluz/stream
 #EXTINF:0,RADIO ESCALA DE ORO
 https://stream.zeno.fm/1872fq9bytzuv
 
+#EXTINF:0,mega new york
+https://mdstrm.com/live-stream-playlist/646307d7bcf8a208be7a7e16.m3u8?
+#EXTINF:0,MEGA NEW YORK RADIO 97.9
+https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerld=onlineradiobox
