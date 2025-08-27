@@ -1317,10 +1317,10 @@ https://26593.live.streamtheworld.com/ROCK_AND_POP_SC
 
 
 
-#EXTINF:-1 tvg-id="OXIGENO 102.1" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/f9/6a/f96a0835-786b-4949-9ac2-987cf016b331.jpg" OXIGENO
+#EXTINF:-1 tvg-id="OXIGENO 102.1" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/f9/6a/f96a0835-786b-4949-9ac2-987cf016b331.jpg",OXIGENO
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 
-#EXTINF:-1 tvg-id="1160" tvg-logo="https://cdn-profiles.tunein.com/s185038/images/logog.jpg" 1160
+#EXTINF:-1 tvg-id="1160" tvg-logo="https://cdn-profiles.tunein.com/s185038/images/logog.jpg",1160
 https://mdstrm.com/audio/6598b6e1261d9e088a6de859/icecast.audio
 
 
