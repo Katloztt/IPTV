@@ -1315,7 +1315,8 @@ https://rds3.desdeparaguay.net:8002/rockandpop
 #EXTINF:-1 tvg-id="Rock and Pop" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/rock-and-pop.png",Rock and Pop
 https://26593.live.streamtheworld.com/ROCK_AND_POP_SC
 
-
+#EXTINF:-1 tvg-id="MIX 106.5" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/mix-cdmx.png",mIX106.5
+https://17813.live.streamtheworld.com/XHDFMFM_SC
 
 #EXTINF:-1 tvg-id="OXIGENO 102.1" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/f9/6a/f96a0835-786b-4949-9ac2-987cf016b331.jpg",OXIGENO
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
