@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,AMERICA TV
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/playlist.m3u8?
 #EXTINF:0,LATINA HD
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:0,LATINA WEB
@@ -8,7 +8,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:0,AMERICA TV
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:0,PANAMERICANA TV
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
 #EXTINF:0,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:0,TV PERU
