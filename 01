@@ -1368,6 +1368,8 @@ https://panelautodj.innovatestream.pe:10987/stream
 
 #EXTINF:0,RADIO JVM CUSCO
 https://stream.laut.fm/jvmlaestacion
+#EXTINF:0,ECUASONIDO
+http://oyotunstream.com:7282/;
 
 #EXTINF:0,RADIO ANDROMEDA
 https://c11.radioboss.fm:18071/stream
