@@ -1394,3 +1394,47 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 
 #EXTINF:0,TELETON
 https://stream.kick.com/ivs/v1/196233775518/LkCDzNL0gX6u/2025/9/13/0/39/YsUZhGaOFJLP/media/hls/720p30/playlist.m3u8
+
+#EXTINF:0,tv urban tv
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTINF:0,Urbano tv
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:0,itv latin
+https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,hermandad salsera
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+
+#EXTINF:0,salsa gorda
+https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
+
+#EXTINF:0,BEST CLASICOS TV 
+https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
+
+#EXTINF:0,now rock
+
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,now rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,xite rock
+https://wmxrock-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:0,atacama noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:0,nat geo latin
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:0,prensa latina tv
+https://eu1.servers10.com:8081/8192/index.m3u8
+
+#EXTINF:0,Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+
+
+
