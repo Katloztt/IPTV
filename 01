@@ -1414,7 +1414,6 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
 
 #EXTINF:0,now rock
-
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:0,now rock
@@ -1434,6 +1433,16 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 
 #EXTINF:0,Stingray Romance Latino (1080p)
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0,latin pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0,pop world
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:0,v clasic tv
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
 
 
 
