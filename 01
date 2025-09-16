@@ -1448,3 +1448,10 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://conectperu.com/8486/stream
 
 
+
+
+#EXTINF:-1 tvg-id="WMIA Magic 93.9 - Miami, FL" tvg-logo="https://static-media.streema.com/media/cache/76/58/7658af0a496386dafd3b467de38ba30f.jpg",RADIO MAGIC MIAMI
+https://stream.revma.ihrhls.com/zc4243
+
+#EXTINF:-1 tvg-id="ESCALANTE" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/914/radio-escalante.5ee03bc6.png",RADIO ESCALANTE
+https://miestacion.turadioonline.com.ar/8038/stream
