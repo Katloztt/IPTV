@@ -1049,6 +1049,7 @@ https://stream.rpr1.de/yogasounds/mp3-128/mytuner
 
 #EXTINF:0,DR P ALBELA 1
 https://www.ivoox.com/listen_mn_131882623_1.mp3?pc=125609%2C158787%2C219409%2C231153
+
 #EXTINF:0,DR P ALBELA 2
 https://www.ivoox.com/listen_mn_131882623_1.mp3
 
@@ -1463,4 +1464,10 @@ RADIO CORA
 https://conectperu.com/8392/stream
 #EXTINF:-1 tvg-id="CORA" tvg-logo="https://cdn-profiles.tunein.com/s138028/images/logog.png",RADIO CORA
 https://conectperu.com/8392/stream
+
+#EXTINF:0,Charlie Kirk, la voz de la división y el odio, ha muerto
+https://www.ivoox.com/listen_mn_157609640_1.mp3?pc=125609%2C158787%2C219409%2C231153
+#EXTINF:0,Al final no fue la izquierda radical
+https://www.ivoox.com/listen_mn_157788672_1.mp3?pc=125609%2C158787%2C219409%2C231153
+
 
