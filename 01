@@ -1478,3 +1478,13 @@ http://fina.dyndns.tv/Cartoons/Simpsons/07x01.mkv
 
 #EXTINF:-1 tvg-id="RADIO BESAME" tvg-logo="https://www.radio.es/300/besame-fm.png",BESAME
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BOGOTAAAC.aac
+
+#EXTINF:0,radio xtrema
+https://server7.servistreaming.com/proxy/super?mp=/stream
+
+#EXTINF:0,ZENZON LOS ANGELES USA
+https://radiozone.org/8036/stream
+
+#EXTINF:0,RADIO AMOR BARCELONA 
+https://technoplayerserver.net:8166/;
+
