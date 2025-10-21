@@ -1507,3 +1507,6 @@ https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
 
 #EXTINF:-1 tvg-id="RADIO INOLVIDABLE" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
 https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
+
+#EXTINF:0,RADIO LA NOVENTERA
+https://host.gometri.com/proxy/lanoventera/stream
