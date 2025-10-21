@@ -1510,3 +1510,6 @@ https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
 
 #EXTINF:0,RADIO LA NOVENTERA
 https://host.gometri.com/proxy/lanoventera/stream
+
+#EXTINF:0,PBO RADIO
+http://n05.radiojar.com/2fse67zuv8hvv?1669043472=&rj-tok=AAABmgTYj_oAWdqqGxrOfiflOQ&rj-ttl=5
