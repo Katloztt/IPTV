@@ -1504,3 +1504,6 @@ https://eu57-sonic.instainternet.com/8066/stream
 
 #EXTINF:0,RADIO LA IMOLVIDABLE
 https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
+
+#EXTINF:-1 tvg-id="RADIO INOLVIDABLE" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
+https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
