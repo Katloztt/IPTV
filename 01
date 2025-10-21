@@ -1501,3 +1501,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758960804/ei/R
 
 #EXTINF:-1 tvg-id="RADIO DECANA" tvg-logo="https://ladecana.pe/wp-content/uploads/2024/02/cropped-logo-decana-2020.png",LA DECANA
 https://eu57-sonic.instainternet.com/8066/stream
+
+#EXTINF:0,RADIO LA IMOLVIDABLE
+https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
