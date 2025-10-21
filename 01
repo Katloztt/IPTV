@@ -1526,7 +1526,10 @@ https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 https://sonicpanel.tmcreativos.com:7029/stream
 #EXTINF:0,ONDA DIGITAL TV
 https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.ts.m3u8
-RADIO TROPICAL TV
+#EXTINF:0,RADIO TROPICAL TV
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-RADIO TROPICAL RADIO
+#EXTINF:0,RADIO TROPICAL RADIO
 https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
+
+#EXTINF:0,ANGINET TV
+https://servilive.com:3624/stream/play.m3u8
