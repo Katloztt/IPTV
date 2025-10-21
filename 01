@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/playlist.m3u8?
+https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8
 #EXTINF:0,LATINA HD
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:0,LATINA WEB
@@ -1513,3 +1513,6 @@ https://host.gometri.com/proxy/lanoventera/stream
 
 #EXTINF:0,PBO RADIO
 http://n05.radiojar.com/2fse67zuv8hvv?1669043472=&rj-tok=AAABmgTYj_oAWdqqGxrOfiflOQ&rj-ttl=5
+
+#EXTINF:0,AMERICA TV EN 360
+https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_360p/chunks.m3u8
