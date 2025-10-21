@@ -985,7 +985,7 @@ https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4
 
 #EXTINF:-1 tvg-id="RADIO INOLVIDABLE 2" tvg-logo="https://www.radio.es/300/lainolvidablepe.png",INOLVIDABLE
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8?listeningSessionID=68a82d0a1d2b316a_5164035_yphhJcr7_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002SrHo&downloadSessionID=0&aid=68386a6e44ba64f6064b25c9&property=aiir&pid=rnMF5HSL51bZdfwBxkvuPfkGx8KiCsc5&sid=q3FNNTDFFiXAo8E5iHzhTs0L3hBWgVW0&uid=h2uY9tJ7uPk30Hfg8CNrW3ExEBCRmmq7&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1761102476858&ot=D2MWllZ-qagA3nJ2y8lbYQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=h2uY9tJ7uPk30Hfg8CNrW3ExEBCRmmq7
+https://mdstrm.com/audio/6839e24cf4eacd81ada4e6b4/icecast.audio
 
 #EXTINF:-1 tvg-id="RADIO MELODIA" tvg-logo="https://static-media.streema.com/media/cache/9e/7d/9e7de0cf0d234a846badadafa7bf0bb7.jpg",MELODIA
 https://stream.radiomelodia.com.pe:8000/radio.mp3
