@@ -1533,3 +1533,9 @@ https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
 
 #EXTINF:0,ANGINET TV
 https://servilive.com:3624/stream/play.m3u8
+
+#EXTINF:0,gm7 digital
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+
+#EXTINF:0,tv peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?
