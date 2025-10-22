@@ -1539,3 +1539,8 @@ https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 
 #EXTINF:0,tv peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?
+#EXTINF:0,dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0,CALITV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w778001280.m3u8
+
