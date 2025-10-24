@@ -1543,4 +1543,14 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:0,CALITV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w778001280.m3u8
+#EXTINF:0,abbey road
+https://ia601706.us.archive.org/20/items/sin-tituloazaxddsadsa/Sin%20t%C3%ADtuloazaxddsadsa.wmv
+#EXTINF:-1 tvg-id="ABBEY ROAD" tvg-logo="https://m.media-amazon.com/images/I/81sBKBIcwvL._UF1000,1000_QL80_.jpg",THE BEATLES
+ttps://ia601706.us.archive.org/20/items/sin-tituloazaxddsadsa/Sin%20t%C3%ADtuloazaxddsadsa.wmv
+#EXTINF:0,CHESPIRITO LAVADORA Y SEGURO
+https://dn720402.ca.archive.org/0/items/los-caquitos-la-lavadora-y-el-seguro-contra-accidentes/Los%20Caquitos%20-%20La%20lavadora%20y%20el%20seguro%20contra%20accidentes.mp4
+#EXTINF:0,CHESPIRITO DESALOJADOS
+https://dn720402.ca.archive.org/0/items/los-caquitos-la-lavadora-y-el-seguro-contra-accidentes/Los%20Caquitos%20-%20Desalojados%20por%20no%20pagar%20%282%20de%202%29.mp4
 
+#EXTINF:0,ESPECIAL SALSA DURA
+https://ia803207.us.archive.org/30/items/vinilo-2.0-especial-de-salsa-01-08-12-2016/vinilo-2.0-especial-de-salsa-01-08-12-2016.mp3
