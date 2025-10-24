@@ -1546,7 +1546,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w778001280.m3
 #EXTINF:0,abbey road
 https://ia601706.us.archive.org/20/items/sin-tituloazaxddsadsa/Sin%20t%C3%ADtuloazaxddsadsa.wmv
 #EXTINF:-1 tvg-id="ABBEY ROAD" tvg-logo="https://m.media-amazon.com/images/I/81sBKBIcwvL._UF1000,1000_QL80_.jpg",THE BEATLES
-ttps://ia601706.us.archive.org/20/items/sin-tituloazaxddsadsa/Sin%20t%C3%ADtuloazaxddsadsa.wmv
+https://ia601706.us.archive.org/20/items/sin-tituloazaxddsadsa/Sin%20t%C3%ADtuloazaxddsadsa.wmv
 #EXTINF:0,CHESPIRITO LAVADORA Y SEGURO
 https://dn720402.ca.archive.org/0/items/los-caquitos-la-lavadora-y-el-seguro-contra-accidentes/Los%20Caquitos%20-%20La%20lavadora%20y%20el%20seguro%20contra%20accidentes.mp4
 #EXTINF:0,CHESPIRITO DESALOJADOS
@@ -1556,3 +1556,11 @@ https://dn720402.ca.archive.org/0/items/los-caquitos-la-lavadora-y-el-seguro-con
 https://ia803207.us.archive.org/30/items/vinilo-2.0-especial-de-salsa-01-08-12-2016/vinilo-2.0-especial-de-salsa-01-08-12-2016.mp3
 #EXTINF:0,FLACSO RADIO EC
 https://cento02.mipanelradio.com/proxy/flacsoec?mp=/stream
+
+#EXTINF:-1 tvg-id="SELENA MIX" tvg-logo="https://www.billboard.com/wp-content/uploads/2025/03/Selena-Amor-Prohibido-cover-2025-billboard-1240.jpg",SELENA
+https://ia600709.us.archive.org/26/items/SelenaConTantoAmorMedley320Kbps/Selena_%20Con%20Tanto%20Amor-Medley%20%28320%20%20kbps%29.mp3
+
+
+#EXTINF:-1 tvg-id="MODO PILIN" tvg-logo="https://i.pinimg.com/736x/fb/9d/4a/fb9d4a35afdb19f743b9795303d2b116.jpg",PILIN
+https://ia802906.us.archive.org/1/items/baladas-romanticas-al-100-720-p-hd/BALADAS%20ROMANTICAS%20AL%20100%20%28720P_HD%29.mp4
+
