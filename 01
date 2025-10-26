@@ -1564,3 +1564,7 @@ https://ia600709.us.archive.org/26/items/SelenaConTantoAmorMedley320Kbps/Selena_
 #EXTINF:-1 tvg-id="MODO PILIN" tvg-logo="https://i.pinimg.com/736x/fb/9d/4a/fb9d4a35afdb19f743b9795303d2b116.jpg",PILIN
 https://ia802906.us.archive.org/1/items/baladas-romanticas-al-100-720-p-hd/BALADAS%20ROMANTICAS%20AL%20100%20%28720P_HD%29.mp4
 
+#EXTINF:-1 tvg-id="NAZARENA TV" tvg-logo="https://4.bp.blogspot.com/-06nXe-u5XXg/WBONUYmBg4I/AAAAAAAA2CM/KzJlmY3IALsZDbLxnEILsRc-rbkcSMzngCLcB/s640/nazarenas-tv.jpg",NAZARENA TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w1468598421.m3u8
+#EXTINF:0,SOL TV 
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1822846475.m3u8
