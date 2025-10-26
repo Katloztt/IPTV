@@ -1571,3 +1571,6 @@ https://video03.logicahost.com.br/soltv/soltv/chunklist_w1822846475.m3u8
 
 #EXTINF:0,SU MAJESTAD EL BOLERO
 https://conectperu.com:7182/stream?icy=http
+
+#EXTINF:0,NAKRO DIGITAL
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/chunks.m3u8?
