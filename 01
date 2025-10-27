@@ -1118,8 +1118,11 @@ https://conectperu.com:7082/
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE 
 https://conectperu.com/8166/stream
+
 #EXTINF:0,Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiochalaca.pe/wp-content/uploads/2024/01/perfil2024.png",RADIO CHALACA 
 https://conectperu.com/8084/stream
 #EXTINF:0, SALSA BEMBE 
@@ -1576,3 +1579,25 @@ https://conectperu.com:7182/stream?icy=http
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/chunks.m3u8?
 #EXTINF:0,LIMP BIZKIT LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761509504/ei/ICz-aJn0FL2K9cYPjorZyQY/ip/213.173.36.175/id/iCvXcGXlqsA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AdEuB5SyjZqT-Nn5Xa74dmjbN4ncW03I7YYg4nsJXAFsz7Qn74VQB6LUUWsZz7b9iPg7pKgmlQrte0jb/spc/6b0G_AmlG-QsfXQkt75wim6WoIuojV7pAucnxxHwwaVHZhaYUlZQJVyYr_k_og/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANW7ZiCU-__bS-e6E7Dnm_SZjvQ8gCk3Ak86sP3o8LWiAiEAvAqs8pvVT-SMKtAg1Puky4hAGwtDIasmk2YU8TGW8QQ%3D/file/index.m3u8
+
+#EXTINF:0,CORAL TV
+https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,EXTREMADURA
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/canalextremadura/live_med/chunks_dvr.m3u8
+#EXTINF:0,VOZ Y TV
+https://cloud37.ecuatel.com/vostv/live/chunklist_w939438319.m3u8
+#EXTINF:0,SONO ONDA
+https://live.obslivestream.com/sonoondatv/tracks-v3a1/mono.m3u8
+#EXTINF:0,SOY PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w1196718269.m3u8
+
+#EXTINF:0,CANAL REPUBLICA
+https://serenotv.com/video/canal-republica-tv/
+#EXTINF:0,RETROTV
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+#EXTINF:0,MAGIC KIDS
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+#EXTINF:0,DREIKO TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:0,MI TV CLASICA
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
