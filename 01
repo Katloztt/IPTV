@@ -1601,3 +1601,14 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:0,MI TV CLASICA
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+
+#EXTINF:0,WKYA 105.5 FM
+https://server02.nkstreaming.com:8128/stream
+#EXTINF:0,MUCHA RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3
+#EXTINF:0,RADIO HISPANOHABLANTE
+https://technoplayerserver.net/8016/stream/1/
+#EXTINF:0,RADIO PIRATA HONDURAS
+https://a1.asurahosting.com/listen/radio_pirata_online/radio.mp3
+
+
