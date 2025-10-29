@@ -1613,3 +1613,20 @@ https://a1.asurahosting.com/listen/radio_pirata_online/radio.mp3
 
 #EXTINF:0,PLANETA RADIO LATINO
 https://server6.globalhostla.com:9484/stream
+
+#EXTINF:0,rpp
+http://38.183.182.166:8000/play/a13g/index.m3u8
+
+
+#EXTINF:0,nick español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+#EXTINF:0,tv peru
+http://38.183.182.166:8000/play/a12u/index.m3u8
+#EXTINF:0,america tv otro link
+http://tvmate.icu:8080/85646307/54885994/110637
+#EXTINF:0,acuario tv 
+#EXTINF:0,http://iptv.prosto.tv:7000/ch325/video.m3u8?
+#EXTINF:0,animals
+http://iptv.prosto.tv:7000/ch316/video.m3u8?
+#EXTINF:0,EXITOSA
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
