@@ -1625,7 +1625,7 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:0,america tv otro link
 http://tvmate.icu:8080/85646307/54885994/110637
 #EXTINF:0,acuario tv 
-#EXTINF:0,http://iptv.prosto.tv:7000/ch325/video.m3u8?
+http://iptv.prosto.tv:7000/ch325/video.m3u8?
 #EXTINF:0,animals
 http://iptv.prosto.tv:7000/ch316/video.m3u8?
 #EXTINF:0,EXITOSA
