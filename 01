@@ -1651,3 +1651,43 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/KKYXL5Y/8E0005BB77BF/m.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/LS535GI/46403E89CCCA/m.m3u8
 #EXTINF:0,CRAFTSY TV DISTRITO TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/2be03623-4c19-4cd0-9d2f-1d73590aaa8f/1.m3u8
+
+
+
+#EXTINF:0,TELEDIARIO
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8?
+
+
+#EXTINF:0,WAPA+
+https://amg00658-amg00658c97-canelatv-international-6697.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-wapata-canelatvinternational/playlist.m3u8?
+
+
+#EXTINF:0,CANALEA MUSIC HITS
+https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8?
+
+
+#EXTINF:0,TONN GOOGLES
+https://amg00658-amg00658c76-canelatv-international-5648.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-toongooglesenespanolappta-canelatvinternational/playlist.m3u8?
+
+
+#EXTINF:0,tvs 1 guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:0,tvs 2 guatemala
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist_w2005907338.m3u8
+
+#EXTINF:0,CRIÑOSA TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+
+#EXTINF:0,aqp cam 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=2savkhak5k1sngsc4o6tvicj11
+
+#EXTINF:0,cuba vision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:0,XTREMA TV
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+LOVE PLANET
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
