@@ -13,16 +13,16 @@ http://38.183.182.166:8000/play/a0rb/index.m3u8
 https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
 #EXTINF:0,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:0,TV PERU
-https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
+#EXTINF:0,tv peru
+http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:0,ATV Sur D(720p) [Not 24/7]
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV (720p) [Not 24/7]
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,AsiriTV (720p) [Not 24/7]
-https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:0,EXITOSA
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u
 #EXTINF:0,Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:0,GLOBAL
