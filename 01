@@ -1729,6 +1729,9 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:0,XTREMA TV
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
+#EXTINF:0,RADIO URBANO
+https://stream.revma.ihrhls.com/zc7427/hls.m3u8
+
 #EXTINF:0,LOVE PLANET 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
