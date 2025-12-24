@@ -1749,7 +1749,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c821
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="VILANCICOS" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/834/600/non_2x/merry-christmas-and-happy-new-year-santa-claus-and-friends-on-christmas-postcard-vector.jpg",BIYANZICOS
-https://ia801507.us.archive.org/26/items/villancicos_202512/villancicos.mp3
-#EXTINF:-1 tvg-id="VILANCICOS" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/834/600/non_2x/merry-christmas-and-happy-new-year-santa-claus-and-friends-on-christmas-postcard-vector.jpg",BIYANZICOS
-https://archive.org/download/villancicos_202512/villancicos.mp3?tunnel=1
+#EXTINF:-1 tvg-id="VILLANCICOS" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/834/600/non_2x/merry-christmas-and-happy-new-year-santa-claus-and-friends-on-christmas-postcard-vector.jpg",VILLANCICOS
+https://ia601707.us.archive.org/21/items/navidad-2025/NAVIDAD%202025.mp4
+
