@@ -1750,3 +1750,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d746
 #EXTINF:-1 tvg-id="VILLANCICOS" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/834/600/non_2x/merry-christmas-and-happy-new-year-santa-claus-and-friends-on-christmas-postcard-vector.jpg",VILLANCICOS
 https://ia601707.us.archive.org/21/items/navidad-2025/NAVIDAD%202025.mp4
 
+ #EXTINF:0,pokemon 001
+https://dn710309.ca.archive.org/0/items/PokemonTemporada1001ByJesusTorres/Pokemon%20-%20Temporada%201%20-%20001%20By%20Jes%C3%BAs%20Torres.mp4
+ #EXTINF:0,pokemon 002
+https://ia800205.us.archive.org/10/items/PokemonTemporada1002ByJesusTorres/Pokemon%20-%20Temporada%201%20-%20002%20By%20Jes%C3%BAs%20Torres.mp4
