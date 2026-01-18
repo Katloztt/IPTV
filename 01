@@ -1489,6 +1489,12 @@ https://stream.revma.ihrhls.com/zc4243
 #EXTINF:-1 tvg-id="MEGA 101.1" tvg-logo="https://mm.aiircdn.com/572/5c65dbb2512ad.jpg",RADIO MEGA
 https://stream.broadcastserver.net:2020/stream/wtis
 
+#EXTINF:-1 tvg-id="CUPIDO CORAZON" tvg-logo="https://cdn.colombia.com/canales/cupido-corazon-5878.jpg",RADIO CUPIDO
+https://listen.radioexpresolatino.com/cupidocorazon
+
+
+
+
 #EXTINF:0,RETRO RADIO
 https://cast5.my-control-panel.com/proxy/jose1238/index.htmlCHUMILLASsid=1
 
@@ -1762,3 +1768,4 @@ https://ia801305.us.archive.org/27/items/PokemonTemporada1004ByJesusTorres/Pokem
 
  #EXTINF:0,RADIO CANAL RED
 https://streams.radio.co/s450f67578/listen
+
