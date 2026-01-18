@@ -1491,9 +1491,10 @@ https://stream.broadcastserver.net:2020/stream/wtis
 
 #EXTINF:-1 tvg-id="CUPIDO CORAZON" tvg-logo="https://cdn.colombia.com/canales/cupido-corazon-5878.jpg",RADIO CUPIDO
 https://listen.radioexpresolatino.com/cupidocorazon
-
-
-
+#EXTINF:-1 tvg-id="RADIO APASIONADA" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/212/apasionada.aaae2186.png",RADIO APASIONADA
+http://146.71.118.220:35006/stream
+#EXTINF:0,MAPA MUNDI
+https://mapas-mundo.com/mapa-del-mundo.jpg
 
 #EXTINF:0,RETRO RADIO
 https://cast5.my-control-panel.com/proxy/jose1238/index.htmlCHUMILLASsid=1
