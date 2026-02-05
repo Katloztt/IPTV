@@ -1770,3 +1770,10 @@ https://ia801305.us.archive.org/27/items/PokemonTemporada1004ByJesusTorres/Pokem
  #EXTINF:0,RADIO CANAL RED
 https://streams.radio.co/s450f67578/listen
 
+#EXTINF:-1 tvg-id="mi_radio" tvg-name="Mi Radio Online" tvg-poster="https://wallpapers.com/images/featured/peru-uv6i863m3hng4c9x.jpg" group-title="Radios", Mi Radio 1
+https://stream.zeno.fm/w1r13grcvqzuv
+
+#EXTM3U
+#EXTINF:-1 tvg-id="mi_radio" tvg-name="Mi Radio Online" tvg-logo="https://wallpapers.com/images/featured/peru-uv6i863m3hng4c9x.jpg" group-title="Radios", Mi Radio 2
+https://stream.zeno.fm/w1r13grcvqzuv
+
