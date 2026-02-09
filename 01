@@ -40,6 +40,7 @@ https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
 #EXTINF:0,RETRO TV ONLINE
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
 #EXTINF:0,TV RETRO
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
@@ -1838,3 +1839,7 @@ https://www.shutterstock.com/image-vector/amazing-world-famous-peruvian-ancient-
 
 #EXTINF:-1 tvg-id="imagen_demo" tvg-name="Imagen Grande" tvg-logo="https://png.pngtree.com/thumb_back/fh260/background/20220630/pngtree-peru-national-day-independence-day-watercolor-background-image_1415990.jpg" group-title="Fondos", Imagen AREQUIPA PNG
 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhriiRuAihJezS3DenIsda24GNfdfyr8_yE3IUxL1FbvSedH1OWhi9us4pcNvO8-fpF2J6QZs2E5h-Sn039nfCtPHkxSmtuTBJBS8kq05kK_RGF7uSOFw9_4Gd6j-C_XpyeyC8gqaGq-rxv/s1600/de6.gif
+
+
+ #EXTINF:0,LIBROS DE LA BIBLIA
+https://i.ibb.co/pr3YJ7dz/BIBLIA2.png
