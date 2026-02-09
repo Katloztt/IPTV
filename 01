@@ -30,6 +30,10 @@ https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream1/chunks.m3u8?dpssid=b2142689254698914314f6b9&sid=ba5t1l1xb216576850466989252cdf9a4&ndvc=0
 #EXTINF:0,RADIO NACIONAL PERU
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:0,TRIVU TV
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:0,VISION SUR
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:0,RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:0,TELESUR
