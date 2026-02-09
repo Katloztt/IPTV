@@ -34,27 +34,38 @@ https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:0,VISION SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
 #EXTINF:0,RETRO X
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+
 #EXTINF:0,RETRO TV ONLINE
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+
 #EXTINF:0,TV RETRO
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+
 #EXTINF:0,RETRO MAGICO
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
-#EXTINF:0RETRO 80 90S
+
+#EXTINF:0,RETRO 80 90S
 https://seed171.bitchute.com/XPOJ1Hq2IAl0/CQvK5Bm946Ne.mp4
-#EXTINF:0MITV CLASICA
+
+#EXTINF:0,MITV CLASICA
+
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
-#EXTINF:0TELE ANIMEMANIA
+
+#EXTINF:0,TELE ANIMEMANIA
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 
-#EXTINF:0RETRO PLUS
+#EXTINF:0,RETRO PLUS
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
-#EXTINF:0RETRO PLUS2
+
+#EXTINF:0,RETRO PLUS2
 https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
-#EXTINF:0TELERED
+
+#EXTINF:0,TELERED
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:0,TELESUR
