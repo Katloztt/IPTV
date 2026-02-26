@@ -1062,6 +1062,7 @@ https://ia801304.us.archive.org/0/items/the-tiny-wren-with-a-powerful-voice-a-fo
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://www.kidspublicradio.org/wp-content/uploads/2015/03/cosquillas_featured-300x292.png",COSQUILLAS
 http://kidspublicradio.got.net:8000/cosquillas
+http://kidspublicradio.got.net:8000/cosquillas
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",RADIO FULL TECHNO
 https://servistream.info:8320/;
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/7e/70/es2-g-104-poacutester-la-bandera-espantildeola-poacutester-din-a4_ver_1.jpg",BANDERA 01
@@ -1787,3 +1788,57 @@ EXTINF:0,AQP1
 https://hd-auth.skylinewebcams.com/live.m3u8?a=8njmu2nl66p83opv2uvm6ai686
 EXTINF:0,RADIO INFANTIL
 https://sp.mex1.stableserver.net/9268/stream
+EXTINF:0,RADIO TRUJILLO LIVE
+https://eu57-sonic.instainternet.com/8122/stream
+EXTINF:0,ADIO SAN FRANCISCO
+https://panelautodj.innovatestream.pe:10988/stream/1/
+
+EXTINF:0,RADIO BUENAZA PE
+https://live.tecnohost.ec/8006/stream
+EXTINF:0,BUENOS MNOMENTOS RADIO PE
+https://conectperu.com:7077/stream/1/
+EXTINF:0,RADIO CENTRAL MIX PE
+https://sp.oyotunstream.com/60004/stream
+EXTINF:0,RADIO CENTRAL PE
+https://stream.zeno.fm/vvtxt6w0mfhvv
+
+EXTINF:0,LOCAZA FM PE
+https://sonicpanel.tmcreativos.com/8056/stream
+
+EXTINF:0,COSQUILLAS USA
+http://kidspublicradio.got.net:8000/cosquillas
+
+EXTINF:0,SALSA DURA CO
+https://play10.tikast.com/proxy/colsalsadura?mp=/stream
+EXTINF:0,SALSA WARRIOS
+https://usa7.fastcast4u.com/proxy/salsawarrior?mp=/1
+EXTINF:0,RADIO SALSA PLUS PE
+https://stream.zeno.fm/f19941g3teruv
+EXTINF:0,BUS SALSA PE
+https://stream.zeno.fm/f74ov9c4zwovv
+EXTINF:0,RADIO CIELO SALSA
+https://stream.zeno.fm/cn5q23pum9duv
+EXTINF:0,RADIO SALSA MAESTRA PE
+https://stream.zeno.fm/bg1x7btnekeuv
+EXTINF:0,RADIO MEGARUMBA PE
+https://stream.laut.fm/radiomegarumba
+EXTINF:0,SALSA POWER PE
+https://stream.zeno.fm/h79m90b81rhvv
+EXTINF:0,UMBRAL SALSA PE
+https://radio.juanjuistream.uk:8120/radio.mp3
+EXTINF:0,FIESTA98
+http://s9.voscast.com:8496/;
+EXTINF:0,SALSA Y MAS DE
+https://stream.laut.fm/salsa_y_mas
+EXTINF:0,SALSA MANIA PE
+https://panelautodj.innovatestream.pe:10822/;
+EXTINF:0,CALIENTE SALSA PE
+https://stream.zeno.fm/251u692hfceuv 
+EXTINF:0,SABROSA PE
+https://stream.zeno.fm/macsyav0nqzuv
+EXTINF:0,RADIO HIT AQP
+https://audio.miradioenvivo.com/8250/stream
+EXTINF:0,ARPON BALLENA MIX PE
+http://panelautodj.innovatestream.pe:7512/;
+EXTINF:0,RADIO TABOCAMIX PE
+https://sp.onliveperu.com:7045/;
