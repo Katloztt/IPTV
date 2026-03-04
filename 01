@@ -1083,11 +1083,7 @@ https://listen.181fm.com/181-buzz_128k.mp3?
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://www.181.fm/images/station-thumbnails/181-buzz_300.webp",RADIO 181.FM 
 https://listen.181fm.com/181-buzz_128k.mp3
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn-profiles.tunein.com/s26531/images/logod.png",MEGA 96.3
-https://liveaudio.lamusica.com/LA_KXOL_icy?aw_0_1st.playerld=onlineradiobox 
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn-profiles.tunein.com/s26531/images/logod.png",RADIO MEGA
-https://liveaudio.lamusica.com/LA_KXOL_icy?
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://f.rpp-noticias.io/cutter/2022/11/28/1669651193.png",LA MEGA MIX
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
@@ -1101,35 +1097,12 @@ https://dattavolt.com/8028/stream
 #EXTINF:0,HOT106 ECUADOR
 https://vmi2217864.contaboserver.net:8000/live
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE
-https://conectperu.com:7082/ 
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE 
-https://conectperu.com/8166/stream
 
 #EXTINF:0,Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiochalaca.pe/wp-content/uploads/2024/01/perfil2024.png",RADIO CHALACA 
-https://conectperu.com/8084/stream
-#EXTINF:0, SALSA BEMBE 
-https://stream.revma.ihrhls.com/zc7192/hls.m3u8
-#EXTINF:0,SALSA MANIA
-https://panelautodj.innovatestream.pe:10822/;
-
-#EXTINF:0,SALSA RADIO
-http://radio.domiplay.net:2002/;
-
-
-#EXTINF:0,SONERA
-https://servistream.info:8310/;
-
-#EXTINF:0,SALSA MAESTRA
-https://stream.zeno.fm/bg1x7btnekeuv
-
-#EXTINF:0,181 .FM
-https://listen.181fm.com/181-salsa_128k.mp3?
 
 
 #EXTINF:0,NIÑO AZUL
@@ -1727,8 +1700,7 @@ https://ia600506.us.archive.org/6/items/PokemonTemporada1003ByJesusTorres/Pokemo
  #EXTINF:0,pokemon 004 
 https://ia801305.us.archive.org/27/items/PokemonTemporada1004ByJesusTorres/Pokemon%20-%20Temporada%201%20-%20004%20By%20Jes%C3%BAs%20Torres.mp4
 
- #EXTINF:0,RADIO CANAL RED
-https://streams.radio.co/s450f67578/listen
+n
 
 #EXTINF:-1 tvg-id="mi_radio" tvg-name="Mi Radio Online" tvg-poster="https://wallpapers.com/images/featured/peru-uv6i863m3hng4c9x.jpg" group-title="Radios", Mi Radio 1
 https://stream.zeno.fm/w1r13grcvqzuv
@@ -1763,15 +1735,27 @@ https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhriiRuAihJezS3DenIsda
 #EXTINF:0,LIBROS DE LA BIBLIA
 https://i.ibb.co/pr3YJ7dz/BIBLIA2.png
 
-#EXTINF:0,SIMPSONS
-https://i.ibb.co/PZ2xg78m/descarga.png
+
 #EXTINF:0,ADALBERTO ALAVAREZ
 https://ia600805.us.archive.org/35/items/ADALBERTO/ADALBERTO.mp3
 
 #EXTINF:0,LA TRIBU ARG 88.7
 https://radio01.ferozo.com/proxy/ra01000659?mp=/;
 #EXTINF:0,AM 750 ARG
-https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC_S
+#EXTINF:0,RADIO RELOJ CUBA
+https://icecast.teveo.cu/b3jbfThq
+#EXTINF:0,RADIO CANAL RED
+https://streams.radio.co/s450f67578/liste
+#EXTINF:0,Nueva Radio Xtrema Chile
+https://audio.streaminghd.cl:2000/stream/lanuevaradioextremafm/;stream.mp3
+#EXTINF:0,ONDA CERO ESPAÑA
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+#EXTINF:0,RADIO UNION VENEZUELA
+https://radio.webtuya.com/8080/stream
+
+
+
 
 #EXTINF:0,3 HORAS CHESPIRITO
 https://ia800408.us.archive.org/33/items/90-episodios-de-los-caquitos-en-chespirito/90-%20Episodios%20de%20Los%20Caquitos%20en%20Chespirito.ia.mp4
@@ -1781,18 +1765,22 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolut
 EXTINF:0,CHESPIRITO 16 HORAS
 https://ia600804.us.archive.org/5/items/chespiro-16-hras/CHESPIRO%2016%20HRAS.mp4
 
-EXTINF:0,new york
-https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w785243117.m3u8?t=vBci5OreTDT5OVZWlrH3hFWPpk6y83Y18ohQ4H190JOjKy2pFzytx8u2ce3HLa%2FxtAtAoJ789gfpG4Qj0z7sQA%3D%3D&td=202602131921
 
 EXTINF:0,AQP1
 https://hd-auth.skylinewebcams.com/live.m3u8?a=8njmu2nl66p83opv2uvm6ai686
 EXTINF:0,RADIO INFANTIL
 https://sp.mex1.stableserver.net/9268/stream
+EXTINF:0,COSQUILLAS USA
+http://kidspublicradio.got.net:8000/cosquillas
 EXTINF:0,RADIO TRUJILLO LIVE
 https://eu57-sonic.instainternet.com/8122/stream
-EXTINF:0,ADIO SAN FRANCISCO
+EXTINF:0,SAN FRANCISCO
 https://panelautodj.innovatestream.pe:10988/stream/1/
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn-profiles.tunein.com/s26531/images/logod.png",MEGA 96.3
+https://liveaudio.lamusica.com/LA_KXOL_icy?aw_0_1st.playerld=onlineradiobox 
 
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://cdn-profiles.tunein.com/s26531/images/logod.png",RADIO MEGA
+https://liveaudio.lamusica.com/LA_KXOL_icy?
 EXTINF:0,RADIO BUENAZA PE
 https://live.tecnohost.ec/8006/stream
 EXTINF:0,BUENOS MNOMENTOS RADIO PE
@@ -1805,8 +1793,31 @@ https://stream.zeno.fm/vvtxt6w0mfhvv
 EXTINF:0,LOCAZA FM PE
 https://sonicpanel.tmcreativos.com/8056/stream
 
-EXTINF:0,COSQUILLAS USA
-http://kidspublicradio.got.net:8000/cosquillas
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE
+https://conectperu.com:7082/ 
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE 
+https://conectperu.com/8166/stream
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiochalaca.pe/wp-content/uploads/2024/01/perfil2024.png",RADIO CHALACA 
+https://conectperu.com/8084/stream
+#EXTINF:0, SALSA BEMBE 
+https://stream.revma.ihrhls.com/zc7192/hls.m3u8
+#EXTINF:0,SALSA MANIA
+https://panelautodj.innovatestream.pe:10822/;
+
+#EXTINF:0,SALSA RADIO
+http://radio.domiplay.net:2002/;
+
+
+#EXTINF:0,SONERA
+https://servistream.info:8310/;
+
+#EXTINF:0,SALSA MAESTRA
+https://stream.zeno.fm/bg1x7btnekeuv
+
+#EXTINF:0,181 .FM
+https://listen.181fm.com/181-salsa_128k.mp3?
+
 
 EXTINF:0,SALSA DURA CO
 https://play10.tikast.com/proxy/colsalsadura?mp=/stream
@@ -1854,8 +1865,6 @@ https://tupanel.info:8240/;?n=b33b426c150ff30aab4c
 
 EXTINF:0,HTR PE ROCK AND POP
 https://stream.zeno.fm/r2mx1c33vc9uv
-EXTINF:0,noticia
-https://pull-flv-l1-sg01.tiktokcdn.com/stage/stream-2136540762515177518_ld.flv?_session_id=131-20260227130424D648F356A9DD3FDB9588.1772168665445&_webnoredir=1&abr_pts=-2800&expire=1773378264&sign=eda706b49b49990733cd80b5d1ff8a49
 
 EXTINF:0,fernando llanos
 https://pull-flv-w11-sg01.tiktokcdn.com/stage/stream-2136540467963887662_ld.flv?_session_id=131-2026022713114288FCEE20D02EC6211A32.1772169103652&_webnoredir=1&abr_pts=-2800&expire=1773378702&sign=ad91ff5c1cd509fa8f9f0d787d6fd83e
