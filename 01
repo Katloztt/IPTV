@@ -1871,25 +1871,33 @@ EXTINF:0,RADIO REGGAETON MIX
 
 
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 01
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 01
 https://stream.zeno.fm/n7o0ckhslbdvv?n=9d18de2c3ec9954602b8
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 02
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 02
 https://stream.zeno.fm/0adkntz03hsuv
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 03
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 03
 https://stream.revma.ihrhls.com/zc7427/hls.m3u8
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 04
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",REGGAETON 04
 https://radiolatina.live/8132/stream/1/
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 05
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 05
 https://stream.zeno.fm/5rnspn4cbpeuv
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 06
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 06
 https://stream.palmundofm.cl/hls/reggaetonoldschool/live.m3u8
 
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg",RADIO REGGAETON 07
-hhttps://stream.zeno.fm/2g1qkn4cbpeuv
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 07
+https://stream.zeno.fm/2g1qkn4cbpeuv
 
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 08
+https://stream.zeno.fm/n7o0ckhslbdvv
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 09
+https://stream.revma.ihrhls.com/zc7427/hls.m3u8
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 10
+https://stream.zeno.fm/1qfzvnttnwzuv
 
