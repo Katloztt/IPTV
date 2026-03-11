@@ -1798,35 +1798,32 @@ https://conectperu.com:7082/
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiosatelite.pe/wp-content/uploads/2024/01/logo_app.png",RADIO SATELITE 
 https://conectperu.com/8166/stream
-#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://radiochalaca.pe/wp-content/uploads/2024/01/perfil2024.png",RADIO CHALACA 
-https://conectperu.com/8084/stream
-#EXTINF:0, SALSA BEMBE 
-https://stream.revma.ihrhls.com/zc7192/hls.m3u8
-#EXTINF:0,SALSA MANIA
-https://panelautodj.innovatestream.pe:10822/;
-
-#EXTINF:0,SALSA RADIO
-http://radio.domiplay.net:2002/;
 
 
-#EXTINF:0,SONERA
-https://servistream.info:8310/;
 
-#EXTINF:0,SALSA MAESTRA
-https://stream.zeno.fm/bg1x7btnekeuv
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0,181 .FM
 https://listen.181fm.com/181-salsa_128k.mp3?
 
 
-EXTINF:0,SALSA DURA CO
-https://play10.tikast.com/proxy/colsalsadura?mp=/stream
-EXTINF:0,SALSA WARRIOS
-https://usa7.fastcast4u.com/proxy/salsawarrior?mp=/1
-EXTINF:0,RADIO SALSA PLUS PE
-https://stream.zeno.fm/f19941g3teruv
-EXTINF:0,BUS SALSA PE
-https://stream.zeno.fm/f74ov9c4zwovv
+
+
+
+
+
+
 EXTINF:0,RADIO CIELO SALSA
 https://stream.zeno.fm/cn5q23pum9duv
 EXTINF:0,RADIO SALSA MAESTRA PE
@@ -1837,8 +1834,7 @@ EXTINF:0,SALSA POWER PE
 https://stream.zeno.fm/h79m90b81rhvv
 EXTINF:0,UMBRAL SALSA PE
 https://radio.juanjuistream.uk:8120/radio.mp3
-EXTINF:0,HOLA NY SALSA
-http://95.216.22.117:8456/stream
+
 
 EXTINF:0,FIESTA98
 http://s9.voscast.com:8496/;
@@ -1869,6 +1865,35 @@ https://stream.zeno.fm/r2mx1c33vc9uv
 
 EXTINF:0,RADIO REGGAETON MIX
 
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 01
+https://conectperu.com/8084/stream
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 02
+https://stream.revma.ihrhls.com/zc7192/hls.m3u8
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 03
+https://panelautodj.innovatestream.pe:10822/;
+
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 04
+http://radio.domiplay.net:2002/;
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 05
+https://servistream.info:8310/;
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 06
+https://stream.zeno.fm/bg1x7btnekeuv
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 07
+https://play10.tikast.com/proxy/colsalsadura?mp=/stream
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 08
+https://stream.zeno.fm/f19941g3teruv
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 09
+https://stream.zeno.fm/f74ov9c4zwovv
+
+#EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 10
+http://95.216.22.117:8456/stream
 
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 01
