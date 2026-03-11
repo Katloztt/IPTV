@@ -1895,6 +1895,8 @@ https://stream.zeno.fm/f74ov9c4zwovv
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/7hqKX82/SALSA.jpg", SALSA 10
 http://95.216.22.117:8456/stream
 
+EXTINF:0,SALSA LIVE SHADY
+https://dn720609.ca.archive.org/0/items/salsaenvivo/salsaenvivo.mp3
 
 #EXTINF:-1 tvg-id="RADIO" tvg-logo="https://i.ibb.co/ccKJMwkZ/reggaetons.jpg", REGGAETON 01
 https://stream.zeno.fm/n7o0ckhslbdvv?n=9d18de2c3ec9954602b8
