@@ -37,16 +37,9 @@ https://csm-e-cesharedlbrgrulive-95668171.bln1.yospace.com/csm/extlive/smartbitp
 https://play.agenciastreaming.com:8081/palmerastv/index.m3u8?PlaylistM3UCL
 #EXTINF:0,RADIO NACIONAL PERU
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:0,CIRCUITO DIGITAL
+https://live-evg11.tv360.bitel.com.pe/bitel/circuitodigital/chunks.m3u8
 
-#EXTINF:0,AMERICA B TV1080
-https://live-evg20.tv360.bitel.com.pe/vQzEi79jQMmsD0iUBwR6NA/1776629505/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
-#EXTINF:0,AMERICA B TV360
-https://live-evg20.tv360.bitel.com.pe/adExZ30L5uk7vLy2sItSig/1776628287/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
-
-#EXTINF:0,AMERICA B TV480
-https://live-evg20.tv360.bitel.com.pe/5yzEHhy3iH3j3kPwwyiJUw/1776629376/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
-
-#EXTINF:0,INCA TV
 https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8
 #EXTINF:0,VISION SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
