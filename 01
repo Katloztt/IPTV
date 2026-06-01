@@ -2058,3 +2058,7 @@ EXTINF:0,totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 EXTINF:0,totalmusic 00s
 totalmusic 80shttps://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+EXTINF:0,English Club
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+EXTINF:0,ENGLISH
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
