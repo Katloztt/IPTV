@@ -2162,3 +2162,7 @@ https://ia802903.us.archive.org/2/items/notas-perfectas-1-edit/NOTAS%20PERFECTAS
 https://ia600604.us.archive.org/32/items/pitch-perfect-2-2015_202606/Pitch%20Perfect%202%20%202015.mp4
 #EXTINF:0,DIY TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+#EXTINF:0,MYZEN TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0,QELLO CONCERTS
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
