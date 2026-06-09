@@ -2166,3 +2166,10 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2c
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0,QELLO CONCERTS
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+
+#EXTINF:0,EnerGeek Radio Web
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:0,El Canal Feliz ✪ | CL
+http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,EnerGeek Retro Web
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
