@@ -21,7 +21,7 @@ https://live-evg20.tv360.bitel.com.pe/7Nh1qm0-Z1Lnp7mLOXkgpQ/1776739314/bitel/TV
 #EXTINF:-1 tvg-id="CANAL 8 CATACAOS" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entertainment",Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:0,ATV (720p) [Not 24/7]
-https://live-evg20.tv360.bitel.com.pe/afj8Mk-i-B79auZceh74Og/1776739140/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:0,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,EXITOSA B
@@ -2161,4 +2161,5 @@ https://ia802903.us.archive.org/2/items/notas-perfectas-1-edit/NOTAS%20PERFECTAS
 #EXTINF:0,NOTAS PERFECTAS 2
 https://ia600604.us.archive.org/32/items/pitch-perfect-2-2015_202606/Pitch%20Perfect%202%20%202015.mp4
 #EXTINF:0,AMERICA TV
+https://qzv4jmsc.fubo18.com/americatv/mono.m3u8?token=f044e701aaf21c7607d49c91e376195a95059b85-6d-1780987448-1780969448
 https://qzv4jmsc.fubo18.com/americatv/mono.m3u8?token=f044e701aaf21c7607d49c91e376195a95059b85-6d-1780987448-1780969448
