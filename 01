@@ -2186,3 +2186,12 @@ https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 https://vdochile.com:3864/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:0,Uniregion TV ✪ | CL
 https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,Canela Music
+https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8
+#EXTINF:0,ska tv
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0,sretro channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
