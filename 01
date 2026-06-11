@@ -1342,11 +1342,13 @@ https://panelautodj.innovatestream.pe:10987/stream
 
 #EXTINF:0,RADIO JVM CUSCO
 https://stream.laut.fm/jvmlaestacion
-#EXTINF:0,ECUASONIDO
-http://oyotunstream.com:7282/;
 
-#EXTINF:0,RADIO ANDROMEDA
-https://c11.radioboss.fm:18071/stream
+#EXTINF:0, RADIO Z92
+https://liveaudio.lamusica.com/MIA_WCMQ_icy?
+
+
+#EXTINF:0,RADIO CONSPIRACION
+https://sp1.hostingclouds.net:8002/stream
 
 #EXTINF:0,RADIO LUZ TARMA
 https://radio.publikarte.com.pe/listen/radioluz/stream
@@ -2194,6 +2196,5 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0,sretro channel
 https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:0,RADIO CONSPIRACION
-https://sp1.hostingclouds.net:8002/stream
+
 
