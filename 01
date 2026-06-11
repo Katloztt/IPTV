@@ -1342,6 +1342,8 @@ https://panelautodj.innovatestream.pe:10987/stream
 
 #EXTINF:0,RADIO JVM CUSCO
 https://stream.laut.fm/jvmlaestacion
+#EXTINF:0,RADIO 90fm españa
+http://185.23.192.118:8010/;stream.mp3
 
 #EXTINF:0, RADIO Z92
 https://liveaudio.lamusica.com/MIA_WCMQ_icy?
