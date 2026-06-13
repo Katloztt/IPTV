@@ -8,7 +8,7 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
 
 #EXTINF:0,AMERICA B TV720
-https://live-evg20.tv360.bitel.com.pe/ZMk6JfT_k5gDTlEmzRhfMw/1780938942/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 
 
 
@@ -2220,7 +2220,37 @@ https://stm2.srvif.com:7974/stream
 #EXTINF:0,RADIO RED VIDA PERU
 http://radio.sistemasandinos.org:7192/;
 
-INAGURACION SHAKIRA
+#EXTINF:0,INAGURACION SHAKIRA
 https://ia601802.us.archive.org/22/items/cup-2026/CUP%202026.mp4
-INAGURACION 2
+#EXTINF:0,INAGURACION 2
 https://ia902804.us.archive.org/31/items/2026-fifa-world-cup-opening-ceremony-fox-sports/2026%20FIFA%20World%20Cup%20Opening%20Ceremony%20%20%20FOX%20Sports.mp4
+#EXTINF:0,AMERICA TV
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
+#EXTINF:0,TELEFE MUNDIAL
+https://yxdlc29tzq.fubo18.com/telefe/mono.m3u8?token=8006692b35033ee0bd135487fcf6ecfad1514304-54-1781399384-1781381384
+#EXTINF:0,DIRECTV SPORTS MUNDIAL
+https://ewvz.fubo18.com/dsports/mono.m3u8?token=9bd49bb137baec9f5c353baca45c7fb068315ac3-7a-1781399485-1781381485
+#EXTINF:0,DIRECTV SPORTS 2 MUNDIAL
+https://c2f2zq.fubo18.com/dsports/mono.m3u8?token=5484016042a2a474ff18fc88ecde7f57e034930a-23-1781399538-1781381538
+#EXTINF:0,DRAGON BALL 
+https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
+#EXTINF:0,DRAGON BALL Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:0,SPACE LIVE
+https://linear-1224.frequency.stream/dist/lg-us/1224/hls/master/playlist.m3u8?
+#EXTINF:0,SPACE2 
+https://linear-1224.frequency.stream/dist/lg-us/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
+#EXTINF:0,DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:0,TIKTOK LATINO
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+#EXTINF:0,CINE WESTERN
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:0,AMERICA TV
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
+#EXTINF:0,TELEFE MUNDIAL
+https://yxdlc29tzq.fubo18.com/telefe/mono.m3u8?token=8006692b35033ee0bd135487fcf6ecfad1514304-54-1781399384-1781381384
+#EXTINF:0,DIRECTV SPORTS MUNDIAL
+https://ewvz.fubo18.com/dsports/mono.m3u8?token=9bd49bb137baec9f5c353baca45c7fb068315ac3-7a-1781399485-1781381485
+#EXTINF:0,DIRECTV SPORTS 2 MUNDIAL
+https://c2f2zq.fubo18.com/dsports/mono.m3u8?token=5484016042a2a474ff18fc88ecde7f57e034930a-23-1781399538-1781381538
