@@ -2248,12 +2248,9 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:0,AMERICA TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
-#EXTINF:0,TELEFE MUNDIAL
-https://yxdlc29tzq.fubo18.com/telefe/mono.m3u8?token=8006692b35033ee0bd135487fcf6ecfad1514304-54-1781399384-1781381384
-#EXTINF:0,DIRECTV SPORTS MUNDIAL
-https://ewvz.fubo18.com/dsports/mono.m3u8?token=9bd49bb137baec9f5c353baca45c7fb068315ac3-7a-1781399485-1781381485
-#EXTINF:0,DIRECTV SPORTS 2 MUNDIAL
-https://c2f2zq.fubo18.com/dsports/mono.m3u8?token=5484016042a2a474ff18fc88ecde7f57e034930a-23-1781399538-1781381538
+#EXTINF:0,Rock 105 & 95.5
+https://live.amperwave.net/manifest/northernstarbroadcasting-wgfmfmaac-ibc1
+
 #EXTINF:0,JESUS ARBOL
 https://i.ibb.co/G31fZYDQ/FINAL.png
 #EXTINF:0,BRASIL VS MARRUECOS
