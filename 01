@@ -2265,3 +2265,9 @@ https://b2zmawnpyww.fubo18.com/foxsports1_usa/mono.m3u8?token=d064fcc233657e525f
 https://bmf0aw9u.fubo18.com/sportv/mono.m3u8?
 https://wp9xqedt.fubo18.com/dsports/mono.m3u8?
 https://b2zmawnpyww.fubo18.com/foxsports1_usa/mono.m3u8?
+
+#EXTINF:0,españa vs cabo verde
+https://b2zmawnpyww.fubo18.com/caracol/mono.m3u8?token=3d319f5761db40dcc32de4dfdc544bfc3c987504-19-1781560405-1781542405
+
+#EXTINF:0,españa
+https://live-evg11.tv360.bitel.com.pe/bitel/circuitodigital/chunks.m3u8
