@@ -2470,6 +2470,8 @@ http://190.117.20.37:8000/play/a08d/index.m3u
 #EXTVLCOPT:network-caching=1000
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
+#EXTINF:11,DSPORT DE TELEDEPORTES
+https://bgvnzw5k.fubo18.com/dsports/mono.m3u8?token=e09a513d68b794d5f177e9653c0a1bdf9ed4da17-59-1782469565-1782451565
 
 #EXTINF:0,DSports (Opción 2)
 #EXTVLCOPT:network-caching=1000
