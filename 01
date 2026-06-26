@@ -2408,3 +2408,75 @@ https://ia600501.us.archive.org/16/items/portugal-uzkekistan-by-carlos-rivas-son
 #EXTINF:0,COLOMBIA EL CONGO
 https://ia601601.us.archive.org/24/items/colombia-vs-en-congo-rivas-carlos-son-ador/COLOMBIA%20VS%20EN%20CONGO%20RIVAS%20CARLOS%20SO%C3%91ADOR.mp4
 
+#EXTINF:0,TELEMUNDO
+https://cxm4.futbolonlinehd.com/telemundo/mono.m3u8?token=5a4b71601c89cc0a6c5d2b32211656e9957c006e-61-1782465560-1782447560
+
+#EXTINF:0,OTRO CANAL MUNDIAL
+https://cxm8.futbolonlinehd.com/even2/mono.m3u8?token=dc8add2be3b9fe0f4cecaa9825df5db2060388ad-91-1782465737-1782447737
+
+#EXTINF:0,RCN
+https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
+
+#EXTINF:0,WIN SPORT
+https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
+#EXTINF:0,DSPORT+
+https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
+#EXTINF:0,TYC SPORTS
+https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
+#EXTINF:0,CHAVO DEL 8 247
+https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:11,DS+
+#EXTVLCOPT:network-caching=1000
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+
+
+
+#EXTINF:11,D SPORTS
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+
+#EXTINF:11,DSports (Opción 4)
+#EXTVLCOPT:network-caching=1000
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+
+#EXTINF:11,DSports (Opción 5)
+#EXTVLCOPT:network-caching=1000
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+
+#EXTINF:11,DSports (Opción 6)
+#EXTVLCOPT:network-caching=1000
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+
+#EXTINF:11,DSports (Opción 7)
+#EXTVLCOPT:network-caching=1000
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+
+#EXTINF:11,DSports (Opción 8)
+#EXTVLCOPT:network-caching=1000
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+
+
+
+
+#EXTINF:11,DIRECTV SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+
+#EXTINF:0,DSports (Opción 2)
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+
+#EXTINF:0,DSports (Opción 9)
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a07d/index.m3u8
+
+
