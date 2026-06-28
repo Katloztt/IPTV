@@ -2481,4 +2481,5 @@ http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://177.53.152.117:8000/play/a07d/index.m3u8
 
-
+#EXTINF:0,COLOMBIA VS PORTUGAL
+https://ia803206.us.archive.org/22/items/colombia-vs-portugal-rivas-carlos-sonador/COLOMBIA%20VS%20PORTUGAL%20RIVAS%20CARLOS%20SONADOR.mp4
