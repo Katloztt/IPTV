@@ -2417,12 +2417,59 @@ https://cxm8.futbolonlinehd.com/even2/mono.m3u8?token=dc8add2be3b9fe0f4cecaa9825
 #EXTINF:0,RCN
 https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
 
-#EXTINF:0,WIN SPORT
-https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
-#EXTINF:0,DSPORT+
-https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
-#EXTINF:0,TYC SPORTS
-https://x4bnd7lq.fubo18.com/tycsports/mono.m3u8?token=f48f6c67baa7a78fc1aaa3f7c541ec88af0bf107-81-1782466138-1782448138
+#EXTINF:0,TVPUB ARG 720
+https://full-online.xyz/proxy/tv_publica/index.php?url=https%3A%2F%2Fedgetvp.global.ssl.fastly.net%2Fb16%2Fngrp%3Ac7_vivo01_dai_source-20001_all%2Fc7_vivo01_dai_source-20001_720p.m3u8%3Fhdnts%3Dexp%3D1782734993%7Eacl%3D147.93.39.151%7Ehmac%3Dcdce36f923d8bfe399d2242c80b8566d2049e9d6907d5f5b5810d0c4fa8f643f
+TVPUB ARG 1080
+https://full-online.xyz/proxy/tv_publica/index.php?url=https%3A%2F%2Fedgetvp.global.ssl.fastly.net%2Fb16%2Fngrp%3Ac7_vivo01_dai_source-20001_all%2Fc7_vivo01_dai_source-20001_1080p.m3u8%3Fhdnts%3Dexp%3D1782734993%7Eacl%3D147.93.39.151%7Ehmac%3Dcdce36f923d8bfe399d2242c80b8566d2049e9d6907d5f5b5810d0c4fa8f643f
+
+
+#EXTINF:0,AZTECA 7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+#EXTINF:0,TV AZTECA DEPORTES
+https://csm-e-cetubilusordlive-97882279.csm.tubi.video/csm/live/734644777/4.m3u8;jsessionid=97EFE15049EBF8E15F003711BAA0D6E6.csm-e-cetubilusordlive-97882279.csm.tubi.video?playback_start_ts=1782699975&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&
+
+#EXTINF:0,CANAL5 MEX
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782721684/ei/NNhBar2BL9D21sQPh77HoA4/ip/213.173.36.174/id/Ty2ACgGDh2g.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-av5oxufvg32x-aphe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/pe/bui/ARmQxEUrM3eUX2rZGSHJp3uJOxgyz7hOd17BhcLvQZHdHkb_sQs1ldsWKK6m8g6QGkiXmE5aOnCM4UAB/spc/SQ-umhVLREC-9w_CokUWzNuYj5NGA3ShD3PfgWpAlN5qwo8eEg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1816250/met/1782700085,/mh/fC/mm/44/mn/sn-av5oxufvg32x-aphe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1782699638/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgPcaJh09cOnu6iCF_YRHGLk_t95tWzhDnblBrIy0WcQkCIEVsTTwph8P2Xr5Xn3DVz_BJO1vUws1P7GcPWX7wqlqX/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMOSQP7cuShaAhI4g3X91JIHsz_5aDoegMkPlsVXWKDoCIAju2S2Tw36X63OeJQx5SdspXb4EDHR-W_o1248wL1jr/playlist/index.m3u8
+
+#EXTINF:0,LIGA1
+https://b2zmawnpyww.fubo18.com/liga1max/mono.m3u8?token=571d10b506356a6d0136472810ae3032d580d450-51-1782717316-1782699316
+
+#EXTINF:0,LOS SIMPSON 247
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+
+
+#EXTINF:0,SIDERAL TV
+https://lbgo.bozztv.com/ssh101/ssh101/chocho1234/chunks.m3u8?lb_backend_hint=7
+
+#EXTINF:0,FABULOSA MUSIC
+https://lbgo.bozztv.com/ssh101/ssh101/fabulosa/chunks.m3u8
+#EXTINF:0,TOTALHD
+https://lbgo.bozztv.com/ssh101/ssh101/totaltvhd/chunks.m3u8
+
+#EXTINF:0,PANTALLA CLASICA
+https://lbgo.bozztv.com/ssh101/ssh101/pantallaclasics/chunks.m3u8
+
+#EXTINF:0,RETROTOONS
+https://lbgo.bozztv.com/ssh101/ssh101/retrotoons/chunks.m3u8
+
+#EXTINF:0,TVRETROPALM
+https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:0,JARABACOA
+https://lbgo.bozztv.com/ssh101/ssh101/jlmr/chunks.m3u8
+
+#EXTINF:0,RETROXPLUS
+https://lbgo.bozztv.com/ssh101/ssh101/erinaca/chunks.m3u8?
+
+#EXTINF:0,HUANTA TV
+https://lbgo.bozztv.com/ssh101/ssh101/kbuena777/chunks.m3u8?
+
+#EXTINF:0,WOW DOCUMENTARIA
+https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/chunks.m3u8?lb_backend_hint=6
+
+
+
+
 #EXTINF:0,CHAVO DEL 8 247
 https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8
 
