@@ -22,10 +22,10 @@ https://es1-p2-netcdn.bitel.com.pe/netcdn-live-6/bitel/TvperuBU/chunks.m3u8?wmki
 http://8.243.126.131:8000/play/a058/index.m3u8
 
 
-#EXTINF:0,ATV (720p) [Not 24/7]
+#EXTINF:0,ATV (720p)
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,ATV+
-https://es2-p1-netcdn.bitel.com.pe/netcdn-live-6/bitel/AtvmasBU/chunks.m3u8?wmkid=0&uid=2900674&timestamp=1785141603&token=69cfeef05f1e041a585c320fbae880f6
+https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:0,EXITOSA B
 http://187.102.210.46/EXITOSA/index.m3u8
 #EXTINF:0,WILLAX B
