@@ -5,34 +5,38 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/chunks.m3u8
 #EXTINF:0,LATINA HD 
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b2119699464653fd0407ce84&ndvc=0&sid=ba5t1l1xb213061487826583ac5f3c1df
 #EXTINF:0,LATINA NOTICIAS
-https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
 #EXTINF:0,AMERICA B TV720
-https://live-evg23.tv360.bitel.com.pe/aSCEnIq7NlMZK47AM8_J0g/1784570181/manifest/america/playlist_clean_source_720p.m3u8
+https://live-evg23.tv360.bitel.com.pe/m7xz5eST74ZHf22R1Adkkw/1785199530/manifest/america/playlist_clean_source_720p.m3u8
 
 
 
 #EXTINF:0,PANAMERICANA B
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8?timestamp=1780874241&wmkid=0&uid=2900674&token=78c6ad762fed51e9ccff470e8afeb971
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:0,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:0,tv peru
-https://live-evg20.tv360.bitel.com.pe/7Nh1qm0-Z1Lnp7mLOXkgpQ/1776739314/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="CANAL 8 CATACAOS" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entertainment",Catacaos
-https://live.obslivestream.com/canal8/index.m3u8
+https://es1-p2-netcdn.bitel.com.pe/netcdn-live-6/bitel/TvperuBU/chunks.m3u8?wmkid=0&uid=2900674&timestamp=1785134781&token=df7965ce64c64311d71baff232cb1c97
+#EXTINF:0,CANAL N
+http://8.243.126.131:8000/play/a058/index.m3u8
+
+
 #EXTINF:0,ATV (720p) [Not 24/7]
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:0,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,EXITOSA B
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=14730154
+http://187.102.210.46/EXITOSA/index.m3u8
 #EXTINF:0,WILLAX B
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
+http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:0,RPP RADIO
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:0,RPP TV
-https://csm-e-cesharedlbrgrulive-95668171.bln1.yospace.com/csm/extlive/smartbitprd01,hls-rpp/4.m3u8;jsessionid=385B09FFA30C96B78EABA588CE362E2A.csm-e-cesharedlbrgrulive-95668171.bln1.yospace.com?yo.t.jt=2000&yo.up=https://cdn-ssai-1.smartbit.co/prd/
-
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 8 CATACAOS" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Entertainment",Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:0,PALMERAS TV
 https://play.agenciastreaming.com:8081/palmerastv/index.m3u8?PlaylistM3UCL
 #EXTINF:0,RADIO NACIONAL PERU
@@ -1995,6 +1999,16 @@ EXTINF:0,8 HORAS DE CHESPIRITO
 https://ia800604.us.archive.org/14/items/8-horas-chespiro/8%20HORAS%20CHESPIRO.mp4
 EXTINF:0,Hey Arnold pluto
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+EXTINF:0,nick retro
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+EXTINF:0,bitme1
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+EXTINF:0,bitme2
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
+EXTINF:0,chavo 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 EXTINF:0,TIKTOK TV ESPA
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 EXTINF:0,Chompiras y botija
@@ -2662,3 +2676,31 @@ https://scontent-lim1-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMM6oi9PiMnAJWeqQiWX_Ut_Zd
 https://ia803105.us.archive.org/22/items/volley-peru-vs-chile-2026/VOLLEY%20PERU%20VS%20CHILE%202026.mp4
 #EXTINF:0,remix arabe
 https://dn721808.ca.archive.org/0/items/duet-twice-surprise-tamali-maak-cover_Qw8NXDQs/duet-twice-surprise-tamali-maak-cover_Qw8NXDQs.mp3
+
+#EXTINF:0,REWIND
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:0,ATV
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
+#EXTINF:0,LOS PITUFOS
+https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
+#EXTINF:0,HISTORIA
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:0,AYM SPORT
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:0,CABALLOS
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:0,ANIMALES
+https://d2j2obpavpuw3t.cloudfront.net/CuriosityAnimales.m3u8
+#EXTINF:0,80S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0,90S NOW
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:0,XITE LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:0,XITE90S
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:0,LAS ESTRELLAS
+http://177.234.249.135:8888/LasEstrellas/index.m3u8
+#EXTINF:0,BOLIVIATV
+http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
+
