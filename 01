@@ -2706,3 +2706,10 @@ http://177.234.249.135:8888/LasEstrellas/index.m3u8
 #EXTINF:0,BOLIVIATV
 http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 
+#EXTINF:0,HEY ARNOLD 01
+https://ia801009.us.archive.org/30/items/Oye-Arnold-Latino/S01E01.mp4
+#EXTINF:0,HEY ARNOLD 02
+https://ia801009.us.archive.org/30/items/Oye-Arnold-Latino/S01E02.mp4
+
+#EXTINF:0,LA VENGANZA
+https://ia801009.us.archive.org/30/items/Oye-Arnold-Latino/%C2%A1Oye%2C%20Arnold%21.S03E13.Dual.720p-lat.mp4
