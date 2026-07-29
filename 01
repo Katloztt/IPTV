@@ -14,6 +14,7 @@ https://live-evg23.tv360.bitel.com.pe/m7xz5eST74ZHf22R1Adkkw/1785199530/manifest
 
 #EXTINF:0,PANAMERICANA B
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+
 #EXTINF:0,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:0,tv peru
@@ -2004,6 +2005,8 @@ EXTINF:0,Hey Arnold pluto
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 EXTINF:0,nick retro
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:0,RETRO KIDS SPA
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 EXTINF:0,bitme1
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 EXTINF:0,bitme2
@@ -2713,3 +2716,29 @@ https://ia801009.us.archive.org/30/items/Oye-Arnold-Latino/S01E02.mp4
 
 #EXTINF:0,LA VENGANZA
 https://ia801009.us.archive.org/30/items/Oye-Arnold-Latino/%C2%A1Oye%2C%20Arnold%21.S03E13.Dual.720p-lat.mp4
+#EXTINF:0,stream city
+http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
+#EXTINF:0,nature
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:0,aym sport
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:0,SOFIA TV
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w2097559716_b2000000_sles.m3u8
+#EXTINF:0,RETRO KIDS SPA
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+
+#EXTINF:0,retro music
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:0,chavotv
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,best clasicos
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:0,english tv
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+#EXTINF:0,depelicula 1
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:0,depelicula 2
+http://38.19.41.46:8081/DEPELICULA/
+#EXTINF:0,csi miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+
