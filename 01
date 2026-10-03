@@ -21,8 +21,9 @@ http://superxlatino.com:8880/Rvasquez25/Yg34vguF8dfw/429020
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:0,tv peru
 https://es1-p2-netcdn.bitel.com.pe/netcdn-live-6/bitel/TvperuBU/chunks.m3u8?wmkid=0&uid=2900674&timestamp=1785134781&token=df7965ce64c64311d71baff232cb1c97
-#EXTINF:0,CANAL N
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL N" tvg-logo="https://docdog.top/logo/countries/peru/canaln.png" group-title="LAME | PERU",PE: CANAL N
 http://superxlatino.com:8880/Rvasquez25/Yg34vguF8dfw/429012
+
 
 
 #EXTINF:0,ATV (720p)
