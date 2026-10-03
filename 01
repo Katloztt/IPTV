@@ -7,20 +7,22 @@ https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:0,LATINA NOTICIAS
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
-#EXTINF:0,AMERICA B TV720
-https://live-evg23.tv360.bitel.com.pe/lLVkMH0TDG-tPqsGEaBA2w/1787108598/manifest/america/playlist_clean_source_720p.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV HD OP1" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="⭐️ PERU",PE| AMERICA TV HD OP1
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/428948
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV HD OP2" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="⭐️ PERU",PE| AMERICA TV HD OP2
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429002
 
-
-
-#EXTINF:0,PANAMERICANA B
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=2900674&timestamp=1787044104&token=4eca9aef0d5b50f87495c580ee1b9ec0
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE | PANAMERICANA HD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE | PANAMERICANA HD
+http://superxlatino.com:8880/Rvasquez25/Yg34vguF8dfw/429019
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PE| Panamericana SD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE| Panamericana SD
+http://superxlatino.com:8880/Rvasquez25/Yg34vguF8dfw/429020
 
 #EXTINF:0,Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:0,tv peru
 https://es1-p2-netcdn.bitel.com.pe/netcdn-live-6/bitel/TvperuBU/chunks.m3u8?wmkid=0&uid=2900674&timestamp=1785134781&token=df7965ce64c64311d71baff232cb1c97
 #EXTINF:0,CANAL N
-http://8.243.126.131:8000/play/a058/index.m3u8
+http://superxlatino.com:8880/Rvasquez25/Yg34vguF8dfw/429012
 
 
 #EXTINF:0,ATV (720p)
@@ -2833,3 +2835,39 @@ https://d131.rndfnk.com/star/crtve/rne1/nav/aac/128/stream.aac?cid=01GENZSPVYG0R
 #EXTINF:0,tv spne
 https://y2fzdgxl.fubo18.com/espn/mono.m3u8?token=81dced19c3a911c62051859aa500ac3d73cd2378-d5-1790464757-1790446757
 
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV HD OP1" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="⭐️ PERU",PE| AMERICA TV HD OP1
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/428948
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE| AMERICA TV HD OP2" tvg-logo="http://redworld.pro:8880/images/affe649311fe6469e061b0d802fb6a49.png" group-title="⭐️ PERU",PE| AMERICA TV HD OP2
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429002
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV HD OP1" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV HD OP1
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429004
+#EXTINF:-1 tvg-id="" tvg-name="PE| ATV HD OP2" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV HD OP2
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429005
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE| ATV SD" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV SD
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429006
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-name="PE| ATV+ HD" tvg-logo="http://redworld.pro:8880/images/b47d6222fd8cfd8c85c7574b1bc685a0.png" group-title="⭐️ PERU",PE| ATV+ HD
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429007
+#EXTINF:-1 tvg-id="" tvg-name="PE| ATV SUR" tvg-logo="http://redworld.pro:8880/images/c87c27a46d54fb85a78e813f2f38e4de.png" group-title="⭐️ PERU",PE| ATV SUR
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429008
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina HD OP1" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP1
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429009
+#EXTINF:-1 tvg-id="" tvg-name="PE| Latina HD OP2" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP2
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429010
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE| Latina SD" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina SD
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429011
+#EXTINF:-1 tvg-id="lch2318" tvg-name="PE | C4N4L N" tvg-logo="http://redworld.pro:8880/images/d24268d5fcb7b05c20db39f135285580.png" group-title="⭐️ PERU",PE | C4N4L N
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429012
+#EXTINF:-1 tvg-id="lch2204" tvg-name="PE| TV PERU" tvg-logo="http://redworld.pro:8880/images/3e24f2169df093c9157cfed8c0860672.png" group-title="⭐️ PERU",PE| TV PERU
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429013
+#EXTINF:-1 tvg-id="lch2204" tvg-name="PE| TV PERU NOTICIAS" tvg-logo="http://redworld.pro:8880/images/ae52a2d088bc70e2951496c096bca957.png" group-title="⭐️ PERU",PE| TV PERU NOTICIAS
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429014
+#EXTINF:-1 tvg-id="" tvg-name="PE| TV PERU INTERNACIONAL" tvg-logo="http://redworld.pro:8880/images/e9325473232d7349006691c774bd62da.png" group-title="⭐️ PERU",PE| TV PERU INTERNACIONAL
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429015
+#EXTINF:-1 tvg-id="" tvg-name="PE| PBO TV" tvg-logo="http://redworld.pro:8880/images/56a5510a4809056f29325935623a448d.jpg" group-title="⭐️ PERU",PE| PBO TV
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/429016
+#EXTINF:-1 tvg-id="" tvg-name="PE| Exitosa TV" tvg-logo="http://redworld.pro:8880/images/09c619b963604f6731e4028dfa882ae6.png" group-title="⭐️ PERU",PE| Exitosa TV
+
+#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX HD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX HD
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/533403
+#EXTINF:-1 tvg-id="lch7217" tvg-name="PE | *LIGA 1 MAX SD" tvg-logo="http://redworld.pro:8880/images/32e8419a7ecb8f918c70fdadf783e3d8.png" group-title="⭐️ DƏPORTES PE",PE | *LIGA 1 MAX SD
+http://superxlatino.com:8880/cCHnhazqu4ah/tuG3e4N4fAK8/533404
