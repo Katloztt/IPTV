@@ -2975,3 +2975,5 @@ https://live.smartechlatam.online/claro/lamarina/index.m3u8
 https://live.smartechlatam.online/claro/prolongaciontacna/index.m3u8
 #EXTINF:0,ESCUELA PNP
 https://live.smartechlatam.online/claro/escuela_pnp/index.m3u8
+#EXTINF:0,radio mambo
+https://mambo.newradio.it/stream
